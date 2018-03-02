@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/lei_leirepo/!svn/ver/151/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/Dialogs
+END
+LeireDialogBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/lei_leirepo/!svn/ver/136/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/Dialogs/LeireDialogBuilder.java
+END
+DialogMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/lei_leirepo/!svn/ver/151/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/Dialogs/DialogMessage.java
+END
+DialogButtons.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/lei_leirepo/!svn/ver/133/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/Dialogs/DialogButtons.java
+END
+LeireProgressDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/lei_leirepo/!svn/ver/151/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/Dialogs/LeireProgressDialog.java
+END
+DefaultDialogBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/lei_leirepo/!svn/ver/144/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/Dialogs/DefaultDialogBuilder.java
+END
+LeireAlertDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/lei_leirepo/!svn/ver/133/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/Dialogs/LeireAlertDialog.java
+END

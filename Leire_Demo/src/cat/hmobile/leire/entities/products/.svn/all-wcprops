@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/lei_leirepo/!svn/ver/141/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/products
+END
+Product.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/lei_leirepo/!svn/ver/138/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/products/Product.java
+END
+IProductLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/lei_leirepo/!svn/ver/114/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/products/IProductLoader.java
+END
+BrandNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/lei_leirepo/!svn/ver/141/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/products/BrandNotFoundException.java
+END
+ProductLoaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/lei_leirepo/!svn/ver/138/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/products/ProductLoaderFactory.java
+END
+ProductUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/lei_leirepo/!svn/ver/108/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/products/ProductUpdate.java
+END

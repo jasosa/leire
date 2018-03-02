@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/lei_leirepo/!svn/ver/152/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/Helpers
+END
+ScanBundleHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/lei_leirepo/!svn/ver/116/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/Helpers/ScanBundleHelper.java
+END
+PreferencesKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/lei_leirepo/!svn/ver/146/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/Helpers/PreferencesKeys.java
+END
+CaptureBarCodeCurrentScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/lei_leirepo/!svn/ver/105/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/Helpers/CaptureBarCodeCurrentScreen.java
+END
+ParcelableProductList.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/lei_leirepo/!svn/ver/105/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/Helpers/ParcelableProductList.java
+END
+ActivityResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/lei_leirepo/!svn/ver/152/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/Helpers/ActivityResults.java
+END
+MainMenuHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/lei_leirepo/!svn/ver/146/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/Helpers/MainMenuHelper.java
+END
+CaptureBarCodeScreenSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/lei_leirepo/!svn/ver/105/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/Helpers/CaptureBarCodeScreenSelector.java
+END
+Timer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/lei_leirepo/!svn/ver/144/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/Helpers/Timer.java
+END
+TimeAgoDateFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/lei_leirepo/!svn/ver/150/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/Helpers/TimeAgoDateFormatter.java
+END
+ProductBundleHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/lei_leirepo/!svn/ver/140/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/Helpers/ProductBundleHelper.java
+END
+CaptureBarCodeMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/lei_leirepo/!svn/ver/77/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/Helpers/CaptureBarCodeMode.java
+END
+CaptureBarCodeScreenAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/lei_leirepo/!svn/ver/77/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/Helpers/CaptureBarCodeScreenAction.java
+END
+UpdateBundleHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/lei_leirepo/!svn/ver/105/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/Helpers/UpdateBundleHelper.java
+END
+TimeAgoDateConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/lei_leirepo/!svn/ver/150/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/Helpers/TimeAgoDateConverter.java
+END
+ActivityRequests.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/lei_leirepo/!svn/ver/152/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/Helpers/ActivityRequests.java
+END
+MicrobloggingBundleHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/lei_leirepo/!svn/ver/152/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/Helpers/MicrobloggingBundleHelper.java
+END

@@ -1,0 +1,58 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent">
+<TableLayout
+	android:id="@+id/TableLayout01" 
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:stretchColumns="*"
+	android:orientation="vertical">
+	
+	<!--  ITEMS 01 - BEGIN -->
+	<TableRow android:id="@+id/mainmenu.items01" android:layout_marginTop="10dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+		<ImageButton android:id="@+id/menu.button.catalog" android:src="@drawable/catalog_72" android:background="#00ffffff"  android:layout_height="120dip" ></ImageButton>
+		<ImageButton android:id="@+id/menu.button.scanner" android:src="@drawable/barcode_72" android:background="#00ffffff" android:layout_height="120dip"></ImageButton>
+	</TableRow>
+	
+	<TableRow android:id="@+id/mainmenu.textitems01" android:layout_marginTop="-25dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+		<TextView android:id="@+id/menu.text.catalog" 
+		android:layout_height="wrap_content"
+		android:text="@string/mainmenu.footer.catalog"
+		android:gravity="center"></TextView>
+		<TextView android:id="@+id/menu.text.scanner"
+		android:layout_height="wrap_content"
+		android:text="@string/mainmenu.footer.scanner"
+		android:gravity="center"></TextView>
+	</TableRow>
+	<!--  ITEMS 01 - END -->
+	<!--  ITEMS 02 - BEGIN -->
+	<TableRow android:id="@+id/mainmenu.items02" android:layout_width="fill_parent" android:layout_height="fill_parent">
+		<ImageButton android:id="@+id/menu.button.updates" android:src="@drawable/database_72" android:background="#00ffffff" android:layout_height="120dip"></ImageButton>
+		<ImageButton android:id="@+id/menu.button.partnerchannel" android:src="@drawable/channel_72" android:background="#00ffffff" android:layout_height="120dip"></ImageButton>
+	</TableRow>
+	
+	<TableRow android:id="@+id/mainmenu.textitems02" android:layout_marginTop="-20dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+		<TextView android:id="@+id/menu.text.updates"
+		android:layout_height="wrap_content"
+		android:text="@string/mainmenu.footer.updates"
+		android:gravity="center"></TextView>
+		<TextView android:id="@+id/menu.text.partnerchannel"
+		android:layout_height="wrap_content"
+		android:text="@string/mainmenu.footer.partnerchannel"
+		android:gravity="center"></TextView>
+	</TableRow>
+	<!--  ITEMS 02 - END -->
+	<!--  ITEMS 03 - BEGIN -->
+	<TableRow android:id="@+id/mainmenu.items03" android:layout_marginTop="15dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+		<ImageButton android:id="@+id/menu.button.info" android:src="@drawable/info_72" android:background="#00ffffff" android:layout_height="72dip"></ImageButton>
+	</TableRow>
+
+	<TableRow android:id="@+id/mainmenu.textitems03" android:layout_marginTop="0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+		<TextView android:id="@+id/menu.text.info"
+		android:layout_height="wrap_content"
+		android:text="@string/mainmenu.footer.info"
+		android:gravity="center"></TextView>
+	</TableRow>
+	<!--  ITEMS 03 - END -->
+</TableLayout>
+</ScrollView>

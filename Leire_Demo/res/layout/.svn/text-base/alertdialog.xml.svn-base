@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="280dip"
+    android:minWidth="280dip"
+    android:layout_height="wrap_content"
+    android:background="@drawable/list_container_green">
+        <TextView
+            style="@style/Text.Green.Bold.Big"
+            android:id="@+id/title"
+            android:text="Title to show"
+            android:paddingLeft="10dip"
+            android:paddingTop="5dip"
+            android:paddingBottom="3dip"
+            android:background="@color/transparent"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"/>
+		<ImageView
+		    android:background="@drawable/list_item_separator"
+            android:layout_width="fill_parent"
+            android:layout_height="10dip"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="5dip"
+            />
+
+        <TextView
+            style="@style/Text.Green.Bold"
+            android:id="@+id/message"
+            android:paddingLeft="10dip"
+            android:paddingTop="5dip"
+            android:paddingBottom="10dip"
+            android:text="La longitud indicada no corresponde a ningún tipo de código de barras bla, bla, bla y bla bla bla y mas bla bla y mucho mucho mucho mas"
+            android:layout_width="fill_parent"
+			android:layout_height="wrap_content" 
+            android:background="@color/transparent"
+            android:layout_weight="1"
+            /> 
+                            
+    <LinearLayout 
+    	
+        android:orientation="horizontal"
+        android:background="@color/transparent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="6dip"
+        android:layout_marginTop="3dip">
+        <Button 
+        	style="@style/Text.WhiteGray.Bold"
+            android:id="@+id/positiveButton"
+            android:layout_width="100dip"
+            android:layout_height="30dip"
+            android:text="@string/text.ok"
+            android:background="@color/green"
+            android:layout_marginRight="6dip"
+            android:gravity="center"/>
+         <Button 
+         	style="@style/Text.WhiteGray.Bold"
+            android:id="@+id/negativeButton"
+            android:layout_width="100dip"
+            android:layout_height="30dip"
+            android:text="@string/text.cancel"
+            android:gravity="center"
+            android:background="@color/green"/>
+ 
+    </LinearLayout>
+
+</LinearLayout>

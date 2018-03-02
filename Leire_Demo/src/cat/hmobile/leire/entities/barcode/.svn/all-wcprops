@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/lei_leirepo/!svn/ver/105/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/barcode
+END
+BarCodeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/lei_leirepo/!svn/ver/72/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/barcode/BarCodeException.java
+END
+EanBarCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/lei_leirepo/!svn/ver/74/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/barcode/EanBarCode.java
+END
+BarCodeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/lei_leirepo/!svn/ver/105/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/barcode/BarCodeValidator.java
+END

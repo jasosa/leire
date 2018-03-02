@@ -1,0 +1,34 @@
+<PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+            android:title="@string/statusnet.credentials">
+        <EditTextPreference
+                android:key="credentialsUserName"
+                android:title="@string/credentials.user"
+                android:summary="@string/credentials.usersummary"
+                android:dialogTitle="@string/credentials.userdialogtitle"
+               
+               >
+        </EditTextPreference>
+         <EditTextPreference
+                android:key="credentialsPassword"
+                android:title="@string/credentials.pass"
+                android:summary="@string/credentials.passsumary"
+                android:dialogTitle="@string/credentials.passdialogtitle"
+                android:password="true"
+                >
+        </EditTextPreference>
+    </PreferenceCategory>
+     <PreferenceCategory
+            android:title="@string/statusnet.apiurl">
+            <EditTextPreference
+                android:key="apiURL"
+                android:title="@string/statusnet.apiurl"
+                android:summary="@string/statusnet.apiurlsummary"
+                android:dialogTitle="@string/statusnet.apiurl"
+                android:defaultValue="http://www.agileland.net/statusnet/statusnet-0.9.6/index.php/api"
+               >
+        </EditTextPreference>
+     </PreferenceCategory>
+</PreferenceScreen>

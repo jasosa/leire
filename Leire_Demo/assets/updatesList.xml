@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<demo>
+	<version>1.0</version>
+	<update>
+		<detailFilePath>updates/20100823_01.xml</detailFilePath>
+		<date>23/08/2010</date>
+		<productsIn>4</productsIn>
+		<productsOut>5</productsOut>
+	</update>
+	<update>
+		<detailFilePath>updates/20101117_01.xml</detailFilePath>
+		<date>17/11/2010</date>
+		<productsIn>31</productsIn>
+		<productsOut>23</productsOut>
+	</update>
+	<update>
+		<detailFilePath>updates/20101206_01.xml</detailFilePath>
+		<date>06/12/2010</date>
+		<productsIn>8</productsIn>
+		<productsOut>0</productsOut>
+	</update>
+</demo>

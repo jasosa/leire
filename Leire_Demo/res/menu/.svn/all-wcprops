@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/lei_leirepo/!svn/ver/151/branches/demo/src/Leire_Demo/res/menu
+END
+menu_mainmenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/lei_leirepo/!svn/ver/131/branches/demo/src/Leire_Demo/res/menu/menu_mainmenu.xml
+END
+menu_catalog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/lei_leirepo/!svn/ver/141/branches/demo/src/Leire_Demo/res/menu/menu_catalog.xml
+END
+menu_manual_capture.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lei_leirepo/!svn/ver/151/branches/demo/src/Leire_Demo/res/menu/menu_manual_capture.xml
+END
+menu_product_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lei_leirepo/!svn/ver/141/branches/demo/src/Leire_Demo/res/menu/menu_product_list.xml
+END
+menu_scanner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/lei_leirepo/!svn/ver/138/branches/demo/src/Leire_Demo/res/menu/menu_scanner.xml
+END
+menu_product_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lei_leirepo/!svn/ver/91/branches/demo/src/Leire_Demo/res/menu/menu_product_detail.xml
+END
+menu_tweettimeline.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lei_leirepo/!svn/ver/151/branches/demo/src/Leire_Demo/res/menu/menu_tweettimeline.xml
+END

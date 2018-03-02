@@ -1,0 +1,117 @@
+package cat.hmobile.leire.GUI.Activities;
+
+import android.app.Activity;
+import android.app.AlertDialog;
+import android.app.Dialog;
+import android.content.DialogInterface;
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.AdapterView;
+import android.widget.AdapterView.OnItemClickListener;
+import android.widget.ImageButton;
+import android.widget.ListView;
+import cat.hmobile.leire.GUI.Adapters.MenuOptionAdapter;
+import cat.hmobile.leire.GUI.Dialogs.DefaultDialogBuilder;
+import cat.hmobile.leire.GUI.Dialogs.DialogButtons;
+import cat.hmobile.leire.GUI.Dialogs.LeireAlertDialog;
+import cat.hmobile.leire.GUI.Dialogs.LeireDialogBuilder;
+import cat.hmobile.leire.GUI.Helpers.MainMenuHelper;
+import cat.hmobile.leire.entities.catalog.CatalogHolder;
+
+public class MainMenuActivity extends Activity implements OnItemClickListener {
+
+    private static final String LOG_TAG = "MainMenuActivity";
+    private static final int NOT_AVAILABLE_FUNCTIONALITY = 0;
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.leire_main);
+		ListView v = (ListView) findViewById(R.id.listViewOptions);
+		v.setAdapter(new MenuOptionAdapter(this, R.layout.mainmenurow, MainMenuHelper.getMenuItems()));
+		v.setOnItemClickListener(this);
+		initializeCatalog();
+	}
+	 
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu)
+	{
+		MenuInflater inflater = getMenuInflater();
+		inflater.inflate(R.menu.menu_mainmenu, menu);
+		return true;
+	}
+
+	@Override
+	public boolean onOptionsItemSelected(MenuItem item)
+	{
+		switch(item.getItemId())
+		{
+		case R.id.menu_closeapp:
+			this.finish();
+			break;
+		case R.id.menu_help:
+			showDialog(NOT_AVAILABLE_FUNCTIONALITY);
+			break;
+		}
+
+		return super.onOptionsItemSelected(item);
+	}
+
+	@Override
+	protected android.app.Dialog onCreateDialog(int id) {
+
+		Dialog dialog = null;
+		switch(id){
+
+		case NOT_AVAILABLE_FUNCTIONALITY:
+			dialog = DefaultDialogBuilder.create(this, R.string.warning_title, R.string.message_not_available_functionality);
+			break;
+		}
+
+		dialog.setCancelable(true);
+		return dialog;
+	};
+	
+	@Override
+	public void onItemClick(AdapterView<?> paramAdapterView, View paramView,
+			int paramInt, long paramLong) {
+			
+		Intent intent = null;
+		
+		switch(paramInt){
+		case MainMenuHelper.CATALOG:
+			intent = new Intent(this, GeneralCatalogActivity.class);
+			break;
+		case MainMenuHelper.INFO_HELP:
+			//showDialog(NOT_AVAILABLE_FUNCTIONALITY);
+			break;
+		case MainMenuHelper.PARTNER_CHANNEL:
+			intent = new Intent(this, TimeLineActivity.class);
+			break;
+		case MainMenuHelper.SEARCH:
+			intent = new Intent(this, CaptureBarCodeLauncherActivity.class);
+			break;
+		case MainMenuHelper.SETTINGS:
+			intent = new Intent(this, MainPreferencesActivity.class);
+			//showDialog(NOT_AVAILABLE_FUNCTIONALITY);
+			break;
+		case MainMenuHelper.UPDATES:
+			intent = new Intent(this, UpdatesListActivity.class);
+			break;
+		}
+		
+		if(intent != null){
+			startActivity(intent);
+		}
+		
+	}
+
+	private void initializeCatalog() {
+		CatalogHolder.initializeGeneralCatalog(this);		
+	}
+}

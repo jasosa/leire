@@ -1,0 +1,79 @@
+<LinearLayout 
+android:id="@+id/LinearLayout01" 
+android:layout_width="fill_parent" 
+android:layout_height="fill_parent" 
+android:orientation="vertical"
+xmlns:android="http://schemas.android.com/apk/res/android">
+	<ImageButton
+		android:id="@+id/button.back"
+		android:background="@drawable/comeback"
+		android:layout_height="wrap_content"
+		android:layout_width="295dip"
+		android:layout_marginTop ="15dip"
+		android:layout_marginLeft="15dip"
+		android:layout_marginBottom="10dip">
+	</ImageButton>
+	<LinearLayout 
+		android:orientation="vertical"
+		style="@style/list_green">
+		<TextView android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu mi enim. Nunc tortor enim, euismod nec tristique ut" 
+		android:id="@+id/text.tweetmessage" 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"
+		android:paddingLeft="10dip"
+		android:paddingRight="10dip"
+		style="@style/Text.DarkGray">
+		</TextView>
+		<LinearLayout
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"
+		android:paddingLeft="10dip"
+		android:paddingRight="10dip"
+		android:layout_marginTop="10dip"
+		android:layout_marginBottom="6dip"
+		android:background="#00000000">
+			<ImageView
+			android:id="@+id/useravatar"
+			android:layout_width="wrap_content"
+	       	android:layout_height="wrap_content"
+	       	android:background="#00000000"
+	       	android:scaleType="fitXY"
+	        android:src="@drawable/channel_72">
+			</ImageView>
+			<LinearLayout
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content"
+				android:paddingLeft="10dip"
+				android:orientation="vertical"
+				android:background="#00000000">
+				<TextView
+					android:id="@+id/text.user" 
+					android:layout_width="wrap_content" 
+					android:layout_height="wrap_content"
+					android:text="Mi nombre"
+					style="@style/Text.Green.Bold">
+				</TextView>
+				<TextView
+					android:id="@+id/text.timeAgo" 
+					android:layout_width="wrap_content" 
+					android:layout_height="wrap_content"
+					android:text="Hace x horas"
+					style="@style/Text.Green.Bold.Little">
+				</TextView>
+			</LinearLayout>
+		</LinearLayout>
+	</LinearLayout>
+		<Button 
+        	style="@style/Text.WhiteGray.Bold"
+            android:id="@+id/replyButton"
+            android:layout_width="100dip"
+            android:layout_height="30dip"
+            android:text="Reply"
+            android:background="@color/green"
+            android:layout_marginRight="10dip"
+            android:layout_marginLeft="10dip"
+            android:gravity="center"
+            android:layout_gravity="left"
+            android:layout_weight="0">
+     </Button>
+</LinearLayout>

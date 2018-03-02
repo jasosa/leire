@@ -1,0 +1,4469 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<demo>
+			<version>1.0</version>
+			<category>
+				<id>-1</id>
+				<isLeaf>false</isLeaf>
+				<name>Root</name>
+				<parentId />
+
+				<category>
+					<id>001</id>
+					<isLeaf>true</isLeaf>
+					<name>Categ_0000001</name>
+					<parentId>-1</parentId>
+					<!-- <rules> <rule> <id></id> <type></type> <description></description> 
+						</rule> </rules> -->
+				</category>
+				<category>
+					<id>002</id>
+					<isLeaf>false</isLeaf>
+					<name>Categ_0000002</name>
+					<parentId>-1</parentId>
+					<category>
+						<id>003</id>
+						<isLeaf>true</isLeaf>
+						<name>Categ_0000021</name>
+						<parentId>002</parentId>
+						<products>
+							<product>
+								<id>001</id>
+								<fitType>01</fitType>
+								<name>Baguette</name>
+								<ean>0150000000001</ean>
+								<manufacturer>Alcampo</manufacturer>
+								<brand>Auchan</brand>
+								<categoryId>003</categoryId>
+								<categoryName>Categ_0000021</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>002</id>
+								<fitType>02</fitType>
+								<name>Base de pizza</name>
+								<ean>0150000000002</ean>
+								<manufacturer>Alcampo</manufacturer>
+								<brand>Auchan</brand>
+								<categoryId>003</categoryId>
+								<categoryName>Categ_0000021</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>003</id>
+								<fitType>01</fitType>
+								<name>Bollos de cacao</name>
+								<ean>0150000000003</ean>
+								<manufacturer>Alcampo</manufacturer>
+								<brand>Auchan</brand>
+								<categoryId>003</categoryId>
+								<categoryName>Categ_0000021</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>004</id>
+								<fitType>02</fitType>
+								<name>Croissants</name>
+								<ean>0150000000004</ean>
+								<manufacturer>Alcampo</manufacturer>
+								<brand>Auchan</brand>
+								<categoryId>003</categoryId>
+								<categoryName>Categ_0000021</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>005</id>
+								<fitType>02</fitType>
+								<name>Croissants de chocolate</name>
+								<ean>0150000000005</ean>
+								<manufacturer>Alcampo</manufacturer>
+								<brand>Auchan</brand>
+								<categoryId>003</categoryId>
+								<categoryName>Categ_0000021</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>006</id>
+								<fitType>02</fitType>
+								<name>Magdalenas</name>
+								<ean>0150000000006</ean>
+								<manufacturer>Alcampo</manufacturer>
+								<brand>Auchan</brand>
+								<categoryId>003</categoryId>
+								<categoryName>Categ_0000021</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>007</id>
+								<fitType>02</fitType>
+								<name>Magdalenas de chocolate</name>
+								<ean>0150000000007</ean>
+								<manufacturer>Alcampo</manufacturer>
+								<brand>Auchan</brand>
+								<categoryId>003</categoryId>
+								<categoryName>Categ_0000021</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>008</id>
+								<fitType>02</fitType>
+								<name>Molde arroz integral</name>
+								<ean>0150000000008</ean>
+								<manufacturer>Alcampo</manufacturer>
+								<brand>Auchan</brand>
+								<categoryId>003</categoryId>
+								<categoryName>Categ_0000021</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>009</id>
+								<fitType>02</fitType>
+								<name>Molde ingl&#233;s</name>
+								<ean>0150000000009</ean>
+								<manufacturer>Alcampo</manufacturer>
+								<brand>Auchan</brand>
+								<categoryId>003</categoryId>
+								<categoryName>Categ_0000021</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>010</id>
+								<fitType>01</fitType>
+								<name>Pan de molde vien&#233;s</name>
+								<ean>0150000000010</ean>
+								<manufacturer>Alcampo</manufacturer>
+								<brand>Auchan</brand>
+								<categoryId>003</categoryId>
+								<categoryName>Categ_0000021</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>011</id>
+								<fitType>01</fitType>
+								<name>Pan rallado</name>
+								<ean>0150000000011</ean>
+								<manufacturer>Alcampo</manufacturer>
+								<brand>Auchan</brand>
+								<categoryId>003</categoryId>
+								<categoryName>Categ_0000021</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+						</products>
+					</category>
+					<category>
+						<id>004</id>
+						<isLeaf>true</isLeaf>
+						<name>Categ_0000022</name>
+						<parentId>002</parentId>
+						<products>
+							<product>
+								<id>012</id>
+								<fitType>01</fitType>
+								<name>Plum cake</name>
+								<ean>0150000000012</ean>
+								<manufacturer>Alcampo</manufacturer>
+								<brand>Auchan</brand>
+								<categoryId>004</categoryId>
+								<categoryName>Categ_0000022</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>013</id>
+								<fitType>01</fitType>
+								<name>Preparado panificable</name>
+								<ean>0150000000013</ean>
+								<manufacturer>Alcampo</manufacturer>
+								<brand>Auchan</brand>
+								<categoryId>004</categoryId>
+								<categoryName>Categ_0000022</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>014</id>
+								<fitType>01</fitType>
+								<name>Turr&#243;n jijona 300 g</name>
+								<ean>0150000000014</ean>
+								<manufacturer>Almendra y Miel, S.A.</manufacturer>
+								<brand>EL LOBO, 1880</brand>
+								<categoryId>004</categoryId>
+								<categoryName>Categ_0000022</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>015</id>
+								<fitType>02</fitType>
+								<name>Turr&#243;n Alicante 300 g</name>
+								<ean>0150000000015</ean>
+								<manufacturer>Almendra y Miel, S.A.</manufacturer>
+								<brand>EL LOBO, 1880</brand>
+								<categoryId>004</categoryId>
+								<categoryName>Categ_0000022</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>016</id>
+								<fitType>02</fitType>
+								<name>Torta turr&#243;n Alicante 200 g</name>
+								<ean>0150000000016</ean>
+								<manufacturer>Almendra y Miel, S.A.</manufacturer>
+								<brand>EL LOBO, 1880</brand>
+								<categoryId>004</categoryId>
+								<categoryName>Categ_0000022</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>017</id>
+								<fitType>01</fitType>
+								<name>Turr&#243;n yema tostada 300 g</name>
+								<ean>0150000000017</ean>
+								<manufacturer>Almendra y Miel, S.A.</manufacturer>
+								<brand>EL LOBO, 1880</brand>
+								<categoryId>004</categoryId>
+								<categoryName>Categ_0000022</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>018</id>
+								<fitType>02</fitType>
+								<name>Torta turr&#243;n Alicante con edulcorante 200 g</name>
+								<ean>0150000000018</ean>
+								<manufacturer>Almendra y Miel, S.A.</manufacturer>
+								<brand>EL LOBO, 1880</brand>
+								<categoryId>004</categoryId>
+								<categoryName>Categ_0000022</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>019</id>
+								<fitType>01</fitType>
+								<name>Turr&#243;n jijona con edulcorante 200 g</name>
+								<ean>0150000000019</ean>
+								<manufacturer>Almendra y Miel, S.A.</manufacturer>
+								<brand>EL LOBO, 1880</brand>
+								<categoryId>004</categoryId>
+								<categoryName>Categ_0000022</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+						</products>
+					</category>
+				</category>
+				<category>
+					<id>005</id>
+					<isLeaf>false</isLeaf>
+					<name>Categ_0000003</name>
+					<parentId>-1</parentId>
+					<category>
+						<id>006</id>
+						<isLeaf>false</isLeaf>
+						<name>Categ_0000031</name>
+						<parentId>005</parentId>
+						<category>
+							<id>009</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000311</name>
+							<parentId>006</parentId>
+							<products>
+								<product>
+									<id>020</id>
+									<fitType>01</fitType>
+									<name>Turr&#243;n Alicante con edulcorante 200 g</name>
+									<ean>0150000000020</ean>
+									<manufacturer>Almendra y Miel, S.A.</manufacturer>
+									<brand>EL LOBO, 1880</brand>
+									<categoryId>009</categoryId>
+									<categoryName>Categ_0000311</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>021</id>
+									<fitType>01</fitType>
+									<name>Turr&#243;n yema tostada con edulcorante 200 g</name>
+									<ean>0150000000021</ean>
+									<manufacturer>Almendra y Miel, S.A.</manufacturer>
+									<brand>EL LOBO, 1880</brand>
+									<categoryId>009</categoryId>
+									<categoryName>Categ_0000311</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>022</id>
+									<fitType>01</fitType>
+									<name>Baguette</name>
+									<ean>0150000000022</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>009</categoryId>
+									<categoryName>Categ_0000311</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>023</id>
+									<fitType>02</fitType>
+									<name>Baguettinas</name>
+									<ean>0150000000023</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>009</categoryId>
+									<categoryName>Categ_0000311</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>024</id>
+									<fitType>02</fitType>
+									<name>Base de pizza</name>
+									<ean>0150000000024</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>009</categoryId>
+									<categoryName>Categ_0000311</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>025</id>
+									<fitType>01</fitType>
+									<name>Canelones de carne</name>
+									<ean>0150000000025</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>009</categoryId>
+									<categoryName>Categ_0000311</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>026</id>
+									<fitType>01</fitType>
+									<name>Churros</name>
+									<ean>0150000000026</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>009</categoryId>
+									<categoryName>Categ_0000311</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>027</id>
+									<fitType>02</fitType>
+									<name>Croquetas de Bonito</name>
+									<ean>0150000000027</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>009</categoryId>
+									<categoryName>Categ_0000311</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+						<category>
+							<id>010</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000312</name>
+							<parentId>006</parentId>
+							<products>
+								<product>
+									<id>028</id>
+									<fitType>02</fitType>
+									<name>Croquetas de Jam&#243;n</name>
+									<ean>0150000000028</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>010</categoryId>
+									<categoryName>Categ_0000312</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>029</id>
+									<fitType>01</fitType>
+									<name>Croquetas de Pollo</name>
+									<ean>0150000000029</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>010</categoryId>
+									<categoryName>Categ_0000312</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>030</id>
+									<fitType>01</fitType>
+									<name>Donut&#180;s de Az&#250;car</name>
+									<ean>0150000000030</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>010</categoryId>
+									<categoryName>Categ_0000312</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>031</id>
+									<fitType>01</fitType>
+									<name>Donut&#180;s de Chocolate</name>
+									<ean>0150000000031</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>010</categoryId>
+									<categoryName>Categ_0000312</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>032</id>
+									<fitType>02</fitType>
+									<name>Empanadillas de Bonito</name>
+									<ean>0150000000032</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>010</categoryId>
+									<categoryName>Categ_0000312</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+						<category>
+							<id>011</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000313</name>
+							<parentId>006</parentId>
+							<products>
+								<product>
+									<id>033</id>
+									<fitType>02</fitType>
+									<name>Empanadillas de Carne</name>
+									<ean>0150000000033</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>011</categoryId>
+									<categoryName>Categ_0000313</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>034</id>
+									<fitType>01</fitType>
+									<name>Lasagna de Carne</name>
+									<ean>0150000000034</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>011</categoryId>
+									<categoryName>Categ_0000313</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>035</id>
+									<fitType>01</fitType>
+									<name>Masa de Hojaldre</name>
+									<ean>0150000000035</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>011</categoryId>
+									<categoryName>Categ_0000313</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>036</id>
+									<fitType>01</fitType>
+									<name>Medias noches</name>
+									<ean>0150000000036</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>011</categoryId>
+									<categoryName>Categ_0000313</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>037</id>
+									<fitType>01</fitType>
+									<name>Pan de molde</name>
+									<ean>0150000000037</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>011</categoryId>
+									<categoryName>Categ_0000313</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>038</id>
+									<fitType>02</fitType>
+									<name>Pan rallado</name>
+									<ean>0150000000038</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>011</categoryId>
+									<categoryName>Categ_0000313</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+					</category>
+					<category>
+						<id>007</id>
+						<isLeaf>false</isLeaf>
+						<name>Categ_0000032</name>
+						<parentId>005</parentId>
+						<category>
+							<id>012</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000321</name>
+							<parentId>007</parentId>
+							<products>
+								<product>
+									<id>039</id>
+									<fitType>02</fitType>
+									<name>Pizza de barbacoa</name>
+									<ean>0150000000039</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>012</categoryId>
+									<categoryName>Categ_0000321</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>040</id>
+									<fitType>02</fitType>
+									<name>Pizza de at&#250;n</name>
+									<ean>0150000000040</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>012</categoryId>
+									<categoryName>Categ_0000321</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>041</id>
+									<fitType>01</fitType>
+									<name>Pizza de Jam&#243;n, Bacon y Queso</name>
+									<ean>0150000000041</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>012</categoryId>
+									<categoryName>Categ_0000321</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>042</id>
+									<fitType>01</fitType>
+									<name>Pizza de Jam&#243;n y Queso</name>
+									<ean>0150000000042</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>012</categoryId>
+									<categoryName>Categ_0000321</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>043</id>
+									<fitType>01</fitType>
+									<name>Preparado para empanar 250 g</name>
+									<ean>0150000000043</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>012</categoryId>
+									<categoryName>Categ_0000321</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>044</id>
+									<fitType>02</fitType>
+									<name>Rosc&#243;n de Reyes Nata</name>
+									<ean>0150000000044</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>012</categoryId>
+									<categoryName>Categ_0000321</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>045</id>
+									<fitType>01</fitType>
+									<name>Rosc&#243;n de Reyes Tradicional</name>
+									<ean>0150000000045</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>012</categoryId>
+									<categoryName>Categ_0000321</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>046</id>
+									<fitType>01</fitType>
+									<name>San Jacobos</name>
+									<ean>0150000000046</ean>
+									<manufacturer>Aserceli, S.L.</manufacturer>
+									<brand>Aserceli</brand>
+									<categoryId>012</categoryId>
+									<categoryName>Categ_0000321</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+						<category>
+							<id>013</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000322</name>
+							<parentId>007</parentId>
+							<products>
+								<product>
+									<id>047</id>
+									<fitType>02</fitType>
+									<name>Cornflakes chocosplit, 375 g.</name>
+									<ean>0150000000047</ean>
+									<manufacturer>Biomix, S.L.</manufacturer>
+									<brand>Bauck Hof</brand>
+									<categoryId>013</categoryId>
+									<categoryName>Categ_0000322</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>048</id>
+									<fitType>01</fitType>
+									<name>Cornflakes, 500 g.</name>
+									<ean>0150000000048</ean>
+									<manufacturer>Biomix, S.L.</manufacturer>
+									<brand>Bauck Hof</brand>
+									<categoryId>013</categoryId>
+									<categoryName>Categ_0000322</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>053</id>
+									<fitType>01</fitType>
+									<name>Almid&#243;n de ma&#237;z, 250 g.</name>
+									<ean>0150000000053</ean>
+									<manufacturer>Biomix, S.L.</manufacturer>
+									<brand>Bauck Hof</brand>
+									<categoryId>013</categoryId>
+									<categoryName>Categ_0000322</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>054</id>
+									<fitType>02</fitType>
+									<name>Bizcocho de frutas, preparado 400 g.</name>
+									<ean>0150000000054</ean>
+									<manufacturer>Biomix, S.L.</manufacturer>
+									<brand>Bauck Hof</brand>
+									<categoryId>013</categoryId>
+									<categoryName>Categ_0000322</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>055</id>
+									<fitType>01</fitType>
+									<name>Brownies, preparado 400 g.</name>
+									<ean>0150000000055</ean>
+									<manufacturer>Biomix, S.L.</manufacturer>
+									<brand>Bauck Hof</brand>
+									<categoryId>013</categoryId>
+									<categoryName>Categ_0000322</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>056</id>
+									<fitType>01</fitType>
+									<name>Falafel, preparado 160 g.</name>
+									<ean>0150000000056</ean>
+									<manufacturer>Biomix, S.L.</manufacturer>
+									<brand>Bauck Hof</brand>
+									<categoryId>013</categoryId>
+									<categoryName>Categ_0000322</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>057</id>
+									<fitType>02</fitType>
+									<name>Hamburguesa 3 cereales, preparado 160 g.</name>
+									<ean>0150000000057</ean>
+									<manufacturer>Biomix, S.L.</manufacturer>
+									<brand>Bauck Hof</brand>
+									<categoryId>013</categoryId>
+									<categoryName>Categ_0000322</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>058</id>
+									<fitType>01</fitType>
+									<name>Harina de garbanzos, 300 g.</name>
+									<ean>0150000000058</ean>
+									<manufacturer>Biomix, S.L.</manufacturer>
+									<brand>Bauck Hof</brand>
+									<categoryId>013</categoryId>
+									<categoryName>Categ_0000322</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>059</id>
+									<fitType>02</fitType>
+									<name>Harina de ma&#237;z integral, 500 g.</name>
+									<ean>0150000000059</ean>
+									<manufacturer>Biomix, S.L.</manufacturer>
+									<brand>Bauck Hof</brand>
+									<categoryId>013</categoryId>
+									<categoryName>Categ_0000322</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>060</id>
+									<fitType>01</fitType>
+									<name>Harina de soja integral, 500 g.</name>
+									<ean>0150000000060</ean>
+									<manufacturer>Biomix, S.L.</manufacturer>
+									<brand>Bauck Hof</brand>
+									<categoryId>013</categoryId>
+									<categoryName>Categ_0000322</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>061</id>
+									<fitType>01</fitType>
+									<name>Pan r&#225;pido, preparado 500 g.</name>
+									<ean>0150000000061</ean>
+									<manufacturer>Biomix, S.L.</manufacturer>
+									<brand>Bauck Hof</brand>
+									<categoryId>013</categoryId>
+									<categoryName>Categ_0000322</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>062</id>
+									<fitType>02</fitType>
+									<name>Pizza, preparado 350 g.</name>
+									<ean>0150000000062</ean>
+									<manufacturer>Biomix, S.L.</manufacturer>
+									<brand>Bauck Hof</brand>
+									<categoryId>013</categoryId>
+									<categoryName>Categ_0000322</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>063</id>
+									<fitType>01</fitType>
+									<name>Polenta r&#225;pida, 500 g.</name>
+									<ean>0150000000063</ean>
+									<manufacturer>Biomix, S.L.</manufacturer>
+									<brand>Bauck Hof</brand>
+									<categoryId>013</categoryId>
+									<categoryName>Categ_0000322</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>064</id>
+									<fitType>02</fitType>
+									<name>Tortilla de patata con cebolla</name>
+									<ean>0150000000064</ean>
+									<manufacturer>C&#225;rnicas Florist&#225;n, S.A.</manufacturer>
+									<brand>Dhul</brand>
+									<categoryId>013</categoryId>
+									<categoryName>Categ_0000322</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>065</id>
+									<fitType>02</fitType>
+									<name>Tortilla de patata sin cebolla</name>
+									<ean>0150000000065</ean>
+									<manufacturer>C&#225;rnicas Florist&#225;n, S.A.</manufacturer>
+									<brand>Dhul</brand>
+									<categoryId>013</categoryId>
+									<categoryName>Categ_0000322</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>066</id>
+									<fitType>01</fitType>
+									<name>Longaniza roja fresca</name>
+									<ean>0150000000066</ean>
+									<manufacturer>C&#225;rnicas y elaborados el Moreno, S.L.
+									</manufacturer>
+									<brand>C&#225;rnicas y elaborados el Moreno</brand>
+									<categoryId>013</categoryId>
+									<categoryName>Categ_0000322</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>067</id>
+									<fitType>02</fitType>
+									<name>Longaniza blanca casera</name>
+									<ean>0150000000067</ean>
+									<manufacturer>C&#225;rnicas y elaborados el Moreno, S.L.
+									</manufacturer>
+									<brand>C&#225;rnicas y elaborados el Moreno</brand>
+									<categoryId>013</categoryId>
+									<categoryName>Categ_0000322</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+						<category>
+							<id>014</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000323</name>
+							<parentId>007</parentId>
+							<products>
+								<product>
+									<id>068</id>
+									<fitType>01</fitType>
+									<name>Boulettes de boeuf &#225; la tomate</name>
+									<ean>0150000000068</ean>
+									<manufacturer>Comme &#225; la maison</manufacturer>
+									<brand>Comme &#225; la maison</brand>
+									<categoryId>014</categoryId>
+									<categoryName>Categ_0000323</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>069</id>
+									<fitType>01</fitType>
+									<name>Fricass&#233;e de dinde au basilic</name>
+									<ean>0150000000069</ean>
+									<manufacturer>Comme &#225; la maison</manufacturer>
+									<brand>Comme &#225; la maison</brand>
+									<categoryId>014</categoryId>
+									<categoryName>Categ_0000323</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>070</id>
+									<fitType>02</fitType>
+									<name>Mijot&#233; de boeuf aux carottes</name>
+									<ean>0150000000070</ean>
+									<manufacturer>Comme &#225; la maison</manufacturer>
+									<brand>Comme &#225; la maison</brand>
+									<categoryId>014</categoryId>
+									<categoryName>Categ_0000323</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>071</id>
+									<fitType>02</fitType>
+									<name>Polvorones sin gluten</name>
+									<ean>0150000000071</ean>
+									<manufacturer>Distribuci&#243;n Europea de Diet&#233;tica, S.L.
+									</manufacturer>
+									<brand>Singlu</brand>
+									<categoryId>014</categoryId>
+									<categoryName>Categ_0000323</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>072</id>
+									<fitType>01</fitType>
+									<name>Crema de cacao ecol&#243;gica</name>
+									<ean>0150000000072</ean>
+									<manufacturer>Distribuci&#243;n Europea de Diet&#233;tica, S.L.
+									</manufacturer>
+									<brand>Singlu</brand>
+									<categoryId>014</categoryId>
+									<categoryName>Categ_0000323</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>073</id>
+									<fitType>01</fitType>
+									<name>Crema de cacao ecol&#243;gica a la naranja</name>
+									<ean>0150000000073</ean>
+									<manufacturer>Distribuci&#243;n Europea de Diet&#233;tica, S.L.
+									</manufacturer>
+									<brand>Singlu</brand>
+									<categoryId>014</categoryId>
+									<categoryName>Categ_0000323</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>074</id>
+									<fitType>01</fitType>
+									<name>Crema de cacao ecol&#243;gica a la menta</name>
+									<ean>0150000000074</ean>
+									<manufacturer>Distribuci&#243;n Europea de Diet&#233;tica, S.L.
+									</manufacturer>
+									<brand>Singlu</brand>
+									<categoryId>014</categoryId>
+									<categoryName>Categ_0000323</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>075</id>
+									<fitType>01</fitType>
+									<name>Longaniza Salchicha d&#180;Ontinyent oreada aperitivo
+									</name>
+									<ean>0150000000075</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>La Botifarrera</brand>
+									<categoryId>014</categoryId>
+									<categoryName>Categ_0000323</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>076</id>
+									<fitType>01</fitType>
+									<name>Longaniza Salchicha d&#180;Ontinyent oreada</name>
+									<ean>0150000000076</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>La Botifarrera</brand>
+									<categoryId>014</categoryId>
+									<categoryName>Categ_0000323</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>077</id>
+									<fitType>02</fitType>
+									<name>Longaniza Salchicha d&#180;Ontinyent sin anisete</name>
+									<ean>0150000000077</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>La Botifarrera</brand>
+									<categoryId>014</categoryId>
+									<categoryName>Categ_0000323</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>078</id>
+									<fitType>02</fitType>
+									<name>Botifarr&#243;n de Cebolla</name>
+									<ean>0150000000078</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>La Botifarrera</brand>
+									<categoryId>014</categoryId>
+									<categoryName>Categ_0000323</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>079</id>
+									<fitType>02</fitType>
+									<name>Morcilla de cebolla oreada</name>
+									<ean>0150000000079</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>La Botifarrera</brand>
+									<categoryId>014</categoryId>
+									<categoryName>Categ_0000323</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>080</id>
+									<fitType>01</fitType>
+									<name>Longaniza Imperial</name>
+									<ean>0150000000080</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>La Botifarrera</brand>
+									<categoryId>014</categoryId>
+									<categoryName>Categ_0000323</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>081</id>
+									<fitType>01</fitType>
+									<name>Morcilla oreada en aceite</name>
+									<ean>0150000000081</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>La Botifarrera</brand>
+									<categoryId>014</categoryId>
+									<categoryName>Categ_0000323</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>082</id>
+									<fitType>01</fitType>
+									<name>Blanco y negro</name>
+									<ean>0150000000082</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>La Botifarrera</brand>
+									<categoryId>014</categoryId>
+									<categoryName>Categ_0000323</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>083</id>
+									<fitType>01</fitType>
+									<name>Morcilla de cebolla d&#180;Ontinyent oreada</name>
+									<ean>0150000000083</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>La Botifarrera</brand>
+									<categoryId>014</categoryId>
+									<categoryName>Categ_0000323</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>084</id>
+									<fitType>01</fitType>
+									<name>Longaniza aperitivo oreada</name>
+									<ean>0150000000084</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>014</categoryId>
+									<categoryName>Categ_0000323</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>085</id>
+									<fitType>01</fitType>
+									<name>Longaniza casera oreada</name>
+									<ean>0150000000085</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>014</categoryId>
+									<categoryName>Categ_0000323</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>086</id>
+									<fitType>01</fitType>
+									<name>Longaniza de primera</name>
+									<ean>0150000000086</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>014</categoryId>
+									<categoryName>Categ_0000323</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>087</id>
+									<fitType>01</fitType>
+									<name>Longaniza Imperial</name>
+									<ean>0150000000087</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>014</categoryId>
+									<categoryName>Categ_0000323</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>088</id>
+									<fitType>02</fitType>
+									<name>Longaniza de pascua</name>
+									<ean>0150000000088</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>014</categoryId>
+									<categoryName>Categ_0000323</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>089</id>
+									<fitType>01</fitType>
+									<name>Longaniza fresca roja</name>
+									<ean>0150000000089</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>014</categoryId>
+									<categoryName>Categ_0000323</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>090</id>
+									<fitType>02</fitType>
+									<name>Chorizo aperitivo oreado</name>
+									<ean>0150000000090</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>014</categoryId>
+									<categoryName>Categ_0000323</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>091</id>
+									<fitType>01</fitType>
+									<name>Chorizo casero oreado</name>
+									<ean>0150000000091</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>014</categoryId>
+									<categoryName>Categ_0000323</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+					</category>
+					<category>
+						<id>008</id>
+						<isLeaf>false</isLeaf>
+						<name>Categ_0000033</name>
+						<parentId>005</parentId>
+						<category>
+							<id>015</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000331</name>
+							<parentId>008</parentId>
+							<products>
+								<product>
+									<id>092</id>
+									<fitType>01</fitType>
+									<name>Chorizo oreado picante</name>
+									<ean>0150000000092</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>015</categoryId>
+									<categoryName>Categ_0000331</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>093</id>
+									<fitType>01</fitType>
+									<name>Sobrasada</name>
+									<ean>0150000000093</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>015</categoryId>
+									<categoryName>Categ_0000331</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>094</id>
+									<fitType>02</fitType>
+									<name>Morcilla de cebolla</name>
+									<ean>0150000000094</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>015</categoryId>
+									<categoryName>Categ_0000331</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>095</id>
+									<fitType>01</fitType>
+									<name>Morcilla oreada Onteniente</name>
+									<ean>0150000000095</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>015</categoryId>
+									<categoryName>Categ_0000331</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>096</id>
+									<fitType>01</fitType>
+									<name>Morcilla oreada aperitivo</name>
+									<ean>0150000000096</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>015</categoryId>
+									<categoryName>Categ_0000331</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>097</id>
+									<fitType>01</fitType>
+									<name>Blanquet</name>
+									<ean>0150000000097</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>015</categoryId>
+									<categoryName>Categ_0000331</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>098</id>
+									<fitType>01</fitType>
+									<name>Morcilla de carne</name>
+									<ean>0150000000098</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>015</categoryId>
+									<categoryName>Categ_0000331</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>099</id>
+									<fitType>02</fitType>
+									<name>Morcilla blanca de navidad</name>
+									<ean>0150000000099</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>015</categoryId>
+									<categoryName>Categ_0000331</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>100</id>
+									<fitType>01</fitType>
+									<name>Morc&#243;n</name>
+									<ean>0150000000100</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>015</categoryId>
+									<categoryName>Categ_0000331</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>101</id>
+									<fitType>01</fitType>
+									<name>Morc&#243;n negro</name>
+									<ean>0150000000101</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>015</categoryId>
+									<categoryName>Categ_0000331</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>102</id>
+									<fitType>01</fitType>
+									<name>Morcilla de arroz</name>
+									<ean>0150000000102</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>015</categoryId>
+									<categoryName>Categ_0000331</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>103</id>
+									<fitType>02</fitType>
+									<name>Botifarra negra</name>
+									<ean>0150000000103</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>015</categoryId>
+									<categoryName>Categ_0000331</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>104</id>
+									<fitType>01</fitType>
+									<name>Morc&#243;n industrial</name>
+									<ean>0150000000104</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>015</categoryId>
+									<categoryName>Categ_0000331</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>105</id>
+									<fitType>01</fitType>
+									<name>Morc&#243;n negro industrial</name>
+									<ean>0150000000105</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>015</categoryId>
+									<categoryName>Categ_0000331</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>106</id>
+									<fitType>01</fitType>
+									<name>Fiambre de lomo</name>
+									<ean>0150000000106</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>015</categoryId>
+									<categoryName>Categ_0000331</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>107</id>
+									<fitType>01</fitType>
+									<name>Fiambre de magro de paleta</name>
+									<ean>0150000000107</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>015</categoryId>
+									<categoryName>Categ_0000331</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>108</id>
+									<fitType>02</fitType>
+									<name>Jam&#243;n cocido</name>
+									<ean>0150000000108</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>015</categoryId>
+									<categoryName>Categ_0000331</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>109</id>
+									<fitType>01</fitType>
+									<name>Jam&#243;n negro</name>
+									<ean>0150000000109</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>015</categoryId>
+									<categoryName>Categ_0000331</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>110</id>
+									<fitType>01</fitType>
+									<name>Bacon</name>
+									<ean>0150000000110</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>015</categoryId>
+									<categoryName>Categ_0000331</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>111</id>
+									<fitType>01</fitType>
+									<name>Fiambre de pechuga de pavo</name>
+									<ean>0150000000111</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>015</categoryId>
+									<categoryName>Categ_0000331</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>112</id>
+									<fitType>01</fitType>
+									<name>Pasta de morcilla de cebolla</name>
+									<ean>0150000000112</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>015</categoryId>
+									<categoryName>Categ_0000331</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>113</id>
+									<fitType>02</fitType>
+									<name>Bacon barra</name>
+									<ean>0150000000113</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>015</categoryId>
+									<categoryName>Categ_0000331</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+						<category>
+							<id>016</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000332</name>
+							<parentId>008</parentId>
+							<products>
+								<product>
+									<id>114</id>
+									<fitType>01</fitType>
+									<name>Botifarr&#243;n de cebolla</name>
+									<ean>0150000000114</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>016</categoryId>
+									<categoryName>Categ_0000332</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>115</id>
+									<fitType>01</fitType>
+									<name>Pincho aperitivo</name>
+									<ean>0150000000115</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>016</categoryId>
+									<categoryName>Categ_0000332</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>116</id>
+									<fitType>02</fitType>
+									<name>Crema de sobrasada</name>
+									<ean>0150000000116</ean>
+									<manufacturer>Embutidos Onteniente, S.L.</manufacturer>
+									<brand>El Molino</brand>
+									<categoryId>016</categoryId>
+									<categoryName>Categ_0000332</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>117</id>
+									<fitType>01</fitType>
+									<name>Morcilla de arroz</name>
+									<ean>0150000000117</ean>
+									<manufacturer>Embutidos Tradicionales de Villarcayo, S.L.U
+									</manufacturer>
+									<brand>Delicias de Villarcayo</brand>
+									<categoryId>016</categoryId>
+									<categoryName>Categ_0000332</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>118</id>
+									<fitType>01</fitType>
+									<name>Pan de molde 400 g</name>
+									<ean>0150000000118</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>016</categoryId>
+									<categoryName>Categ_0000332</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>119</id>
+									<fitType>01</fitType>
+									<name>Barra grande 200 g</name>
+									<ean>0150000000119</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>016</categoryId>
+									<categoryName>Categ_0000332</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>120</id>
+									<fitType>02</fitType>
+									<name>Barra mediana 100 g</name>
+									<ean>0150000000120</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>016</categoryId>
+									<categoryName>Categ_0000332</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>121</id>
+									<fitType>01</fitType>
+									<name>Barra peque&#241;a 50 g</name>
+									<ean>0150000000121</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>016</categoryId>
+									<categoryName>Categ_0000332</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>122</id>
+									<fitType>01</fitType>
+									<name>Panecillos grandes 60 g</name>
+									<ean>0150000000122</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>016</categoryId>
+									<categoryName>Categ_0000332</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>123</id>
+									<fitType>02</fitType>
+									<name>Panecillos peque&#241;os 30 g</name>
+									<ean>0150000000123</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>016</categoryId>
+									<categoryName>Categ_0000332</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>124</id>
+									<fitType>01</fitType>
+									<name>Pan para sopa</name>
+									<ean>0150000000124</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>016</categoryId>
+									<categoryName>Categ_0000332</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>125</id>
+									<fitType>01</fitType>
+									<name>Panecillos de hamburguesa 60 g</name>
+									<ean>0150000000125</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>016</categoryId>
+									<categoryName>Categ_0000332</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>126</id>
+									<fitType>01</fitType>
+									<name>Panecillos de Frankfurt 60 g</name>
+									<ean>0150000000126</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>016</categoryId>
+									<categoryName>Categ_0000332</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>127</id>
+									<fitType>01</fitType>
+									<name>Pan rallado</name>
+									<ean>0150000000127</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>016</categoryId>
+									<categoryName>Categ_0000332</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>128</id>
+									<fitType>02</fitType>
+									<name>Pan rallado + harina</name>
+									<ean>0150000000128</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>016</categoryId>
+									<categoryName>Categ_0000332</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>129</id>
+									<fitType>01</fitType>
+									<name>Base de pizza</name>
+									<ean>0150000000129</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>016</categoryId>
+									<categoryName>Categ_0000332</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>130</id>
+									<fitType>01</fitType>
+									<name>Coca de Recapte</name>
+									<ean>0150000000130</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>016</categoryId>
+									<categoryName>Categ_0000332</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>131</id>
+									<fitType>01</fitType>
+									<name>Pizza individual de jam&#243;n dulce</name>
+									<ean>0150000000131</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>016</categoryId>
+									<categoryName>Categ_0000332</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>132</id>
+									<fitType>02</fitType>
+									<name>Pizza individual de bacon</name>
+									<ean>0150000000132</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>016</categoryId>
+									<categoryName>Categ_0000332</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+						<category>
+							<id>017</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000333</name>
+							<parentId>008</parentId>
+							<products>
+								<product>
+									<id>133</id>
+									<fitType>01</fitType>
+									<name>Pizza individual de at&#250;n</name>
+									<ean>0150000000133</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>134</id>
+									<fitType>01</fitType>
+									<name>Mini pizza de jam&#243;n dulce</name>
+									<ean>0150000000134</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>135</id>
+									<fitType>01</fitType>
+									<name>Mini pizza de bacon</name>
+									<ean>0150000000135</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>136</id>
+									<fitType>02</fitType>
+									<name>Mini pizza de at&#250;n</name>
+									<ean>0150000000136</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>137</id>
+									<fitType>01</fitType>
+									<name>Tronko de jam&#243;n dulce</name>
+									<ean>0150000000137</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>138</id>
+									<fitType>01</fitType>
+									<name>Tronko de bacon</name>
+									<ean>0150000000138</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>139</id>
+									<fitType>02</fitType>
+									<name>Tronko de at&#250;n</name>
+									<ean>0150000000139</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>140</id>
+									<fitType>01</fitType>
+									<name>Magdalenas grandes</name>
+									<ean>0150000000140</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>141</id>
+									<fitType>01</fitType>
+									<name>Magdalenas grandes de chocolate</name>
+									<ean>0150000000141</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>142</id>
+									<fitType>02</fitType>
+									<name>Magdalenas peque&#241;as</name>
+									<ean>0150000000142</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>143</id>
+									<fitType>01</fitType>
+									<name>Magdalenas peque&#241;as de chocolate</name>
+									<ean>0150000000143</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>144</id>
+									<fitType>01</fitType>
+									<name>Ca&#241;as de jam&#243;n dulce y queso</name>
+									<ean>0150000000144</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>145</id>
+									<fitType>01</fitType>
+									<name>Ca&#241;as de chocolate</name>
+									<ean>0150000000145</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>146</id>
+									<fitType>02</fitType>
+									<name>Croissants grandes</name>
+									<ean>0150000000146</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>147</id>
+									<fitType>01</fitType>
+									<name>Croissants grandes de chocolate</name>
+									<ean>0150000000147</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>148</id>
+									<fitType>01</fitType>
+									<name>Croissants peque&#241;os</name>
+									<ean>0150000000148</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>149</id>
+									<fitType>01</fitType>
+									<name>Croissants peque&#241;os de chocolate</name>
+									<ean>0150000000149</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>150</id>
+									<fitType>02</fitType>
+									<name>Palmeras</name>
+									<ean>0150000000150</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>151</id>
+									<fitType>02</fitType>
+									<name>Palmeras de chocolate negro</name>
+									<ean>0150000000151</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>152</id>
+									<fitType>01</fitType>
+									<name>Palmeras de chocolate blanco</name>
+									<ean>0150000000152</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>153</id>
+									<fitType>01</fitType>
+									<name>Pastelitos de chocolate</name>
+									<ean>0150000000153</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>154</id>
+									<fitType>01</fitType>
+									<name>Bracitos de chocolate</name>
+									<ean>0150000000154</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>155</id>
+									<fitType>01</fitType>
+									<name>Bizcochos</name>
+									<ean>0150000000155</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>156</id>
+									<fitType>02</fitType>
+									<name>Carqui&#241;olis</name>
+									<ean>0150000000156</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>157</id>
+									<fitType>01</fitType>
+									<name>Galletas choco</name>
+									<ean>0150000000157</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>158</id>
+									<fitType>01</fitType>
+									<name>Brioche</name>
+									<ean>0150000000158</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>159</id>
+									<fitType>01</fitType>
+									<name>Coca de almendras</name>
+									<ean>0150000000159</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>160</id>
+									<fitType>02</fitType>
+									<name>Coca de chicharrones</name>
+									<ean>0150000000160</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>161</id>
+									<fitType>01</fitType>
+									<name>Coca de pi&#241;ones</name>
+									<ean>0150000000161</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>162</id>
+									<fitType>01</fitType>
+									<name>Coca de fruta</name>
+									<ean>0150000000162</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>163</id>
+									<fitType>01</fitType>
+									<name>Coca larga de az&#250;car</name>
+									<ean>0150000000163</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>164</id>
+									<fitType>01</fitType>
+									<name>Base de pastel peque&#241;a</name>
+									<ean>0150000000164</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>165</id>
+									<fitType>02</fitType>
+									<name>Pastel peque&#241;o relleno de mermelada</name>
+									<ean>0150000000165</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>166</id>
+									<fitType>01</fitType>
+									<name>Pastel peque&#241;o relleno de chocolate</name>
+									<ean>0150000000166</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>167</id>
+									<fitType>01</fitType>
+									<name>Base de pastel grande</name>
+									<ean>0150000000167</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>168</id>
+									<fitType>01</fitType>
+									<name>Pastel grande relleno de mermelada</name>
+									<ean>0150000000168</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>169</id>
+									<fitType>01</fitType>
+									<name>Pastel grande relleno de chocolate</name>
+									<ean>0150000000169</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>170</id>
+									<fitType>01</fitType>
+									<name>Coca San Juan: Pi&#241;ones</name>
+									<ean>0150000000170</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>171</id>
+									<fitType>02</fitType>
+									<name>Coca San Juan: Chicharrones</name>
+									<ean>0150000000171</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>172</id>
+									<fitType>01</fitType>
+									<name>Coca San Juan: Almendras</name>
+									<ean>0150000000172</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>173</id>
+									<fitType>01</fitType>
+									<name>Coca San Juan: Fruta</name>
+									<ean>0150000000173</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>174</id>
+									<fitType>02</fitType>
+									<name>Coca San Juan: Crema</name>
+									<ean>0150000000174</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>175</id>
+									<fitType>01</fitType>
+									<name>Coca San Juan: Pi&#241;ones ( Sin Lactosa)</name>
+									<ean>0150000000175</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>176</id>
+									<fitType>01</fitType>
+									<name>Coca San Juan: Chicharrones ( Sin Lactosa)</name>
+									<ean>0150000000176</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>177</id>
+									<fitType>01</fitType>
+									<name>Coca San Juan: Almendras ( Sin Lactosa )</name>
+									<ean>0150000000177</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>178</id>
+									<fitType>01</fitType>
+									<name>Coca San Juan: Fruta ( Sin Lactosa)</name>
+									<ean>0150000000178</ean>
+									<manufacturer>Forn Ricardera, S.L.</manufacturer>
+									<brand>Forn Ricardera</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>179</id>
+									<fitType>02</fitType>
+									<name>Salami y Chorizo Mas</name>
+									<ean>0150000000179</ean>
+									<manufacturer>Hermanos Mart&#237;n, S.A.</manufacturer>
+									<brand>Mas</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>180</id>
+									<fitType>02</fitType>
+									<name>Salchich&#243;n y chorizo extra Mas</name>
+									<ean>0150000000180</ean>
+									<manufacturer>Hermanos Mart&#237;n, S.A.</manufacturer>
+									<brand>Mas</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>181</id>
+									<fitType>02</fitType>
+									<name>Salchich&#243;n pavo Mas 150 g</name>
+									<ean>0150000000181</ean>
+									<manufacturer>Hermanos Mart&#237;n, S.A.</manufacturer>
+									<brand>Mas</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>182</id>
+									<fitType>01</fitType>
+									<name>Chorizo pavo Mas 150 g</name>
+									<ean>0150000000182</ean>
+									<manufacturer>Hermanos Mart&#237;n, S.A.</manufacturer>
+									<brand>Mas</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>183</id>
+									<fitType>01</fitType>
+									<name>Salchich&#243;n y chorizo pavo Mas 200 g</name>
+									<ean>0150000000183</ean>
+									<manufacturer>Hermanos Mart&#237;n, S.A.</manufacturer>
+									<brand>Mas</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>184</id>
+									<fitType>02</fitType>
+									<name>Salchich&#243;n anchete extra pimienta Mas 150 g</name>
+									<ean>0150000000184</ean>
+									<manufacturer>Hermanos Mart&#237;n, S.A.</manufacturer>
+									<brand>Mas</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>185</id>
+									<fitType>01</fitType>
+									<name>Chorizo anchete extra pimienta Mas 150 g</name>
+									<ean>0150000000185</ean>
+									<manufacturer>Hermanos Mart&#237;n, S.A.</manufacturer>
+									<brand>Mas</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>186</id>
+									<fitType>01</fitType>
+									<name>Salchich&#243;n extra picante fino Mas</name>
+									<ean>0150000000186</ean>
+									<manufacturer>Hermanos Mart&#237;n, S.A.</manufacturer>
+									<brand>Mas</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>187</id>
+									<fitType>01</fitType>
+									<name>Salchich&#243;n extra con pimienta Mas ( salchich&#243;n
+										gran prolongo)</name>
+									<ean>0150000000187</ean>
+									<manufacturer>Hermanos Mart&#237;n, S.A.</manufacturer>
+									<brand>Mas</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>188</id>
+									<fitType>01</fitType>
+									<name>Chorizo vela extra Mas</name>
+									<ean>0150000000188</ean>
+									<manufacturer>Hermanos Mart&#237;n, S.A.</manufacturer>
+									<brand>Mas</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>189</id>
+									<fitType>02</fitType>
+									<name>Chorizo primera</name>
+									<ean>0150000000189</ean>
+									<manufacturer>Hijos de Luis Rodriguez, S.A.</manufacturer>
+									<brand>Mas y Mas</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>190</id>
+									<fitType>01</fitType>
+									<name>Morcilla Asturiana</name>
+									<ean>0150000000190</ean>
+									<manufacturer>Hijos de Luis Rodriguez, S.A.</manufacturer>
+									<brand>Mas y Mas</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>191</id>
+									<fitType>01</fitType>
+									<name>Matachana</name>
+									<ean>0150000000191</ean>
+									<manufacturer>Hijos de Luis Rodriguez, S.A.</manufacturer>
+									<brand>Mas y Mas</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>192</id>
+									<fitType>01</fitType>
+									<name>Moscancia</name>
+									<ean>0150000000192</ean>
+									<manufacturer>Hijos de Luis Rodriguez, S.A.</manufacturer>
+									<brand>Mas y Mas</brand>
+									<categoryId>017</categoryId>
+									<categoryName>Categ_0000333</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+					</category>
+				</category>
+				<category>
+					<id>018</id>
+					<isLeaf>false</isLeaf>
+					<name>Categ_0000004</name>
+					<parentId>-1</parentId>
+					<category>
+						<id>019</id>
+						<isLeaf>false</isLeaf>
+						<name>Categ_0000041</name>
+						<parentId>018</parentId>
+						<category>
+							<id>023</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000411</name>
+							<parentId>019</parentId>
+							<products>
+								<product>
+									<id>193</id>
+									<fitType>01</fitType>
+									<name>Alb&#243;ndigas</name>
+									<ean>0150000000193</ean>
+									<manufacturer>Hijos de Luis Rodriguez, S.A.</manufacturer>
+									<brand>Mas y Mas</brand>
+									<categoryId>023</categoryId>
+									<categoryName>Categ_0000411</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>194</id>
+									<fitType>01</fitType>
+									<name>Pinchos morunos</name>
+									<ean>0150000000194</ean>
+									<manufacturer>Hijos de Luis Rodriguez, S.A.</manufacturer>
+									<brand>Mas y Mas</brand>
+									<categoryId>023</categoryId>
+									<categoryName>Categ_0000411</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+						<category>
+							<id>024</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000412</name>
+							<parentId>019</parentId>
+							<products>
+								<product>
+									<id>195</id>
+									<fitType>01</fitType>
+									<name>Picadillo de chorizo</name>
+									<ean>0150000000195</ean>
+									<manufacturer>Hijos de Luis Rodriguez, S.A.</manufacturer>
+									<brand>Mas y Mas</brand>
+									<categoryId>024</categoryId>
+									<categoryName>Categ_0000412</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+						<category>
+							<id>025</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000413</name>
+							<parentId>019</parentId>
+							<products>
+								<product>
+									<id>196</id>
+									<fitType>01</fitType>
+									<name>Campango fabada</name>
+									<ean>0150000000196</ean>
+									<manufacturer>Hijos de Luis Rodriguez, S.A.</manufacturer>
+									<brand>Mas y Mas</brand>
+									<categoryId>025</categoryId>
+									<categoryName>Categ_0000413</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>197</id>
+									<fitType>02</fitType>
+									<name>Almid&#243;n modificado de yuca envasado en sacos de
+										papel de 12 kg</name>
+									<ean>0150000000197</ean>
+									<manufacturer>Industrias del ma&#237;z, S.A.</manufacturer>
+									<brand>Expandex</brand>
+									<categoryId>025</categoryId>
+									<categoryName>Categ_0000413</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>198</id>
+									<fitType>01</fitType>
+									<name>Sobre salchich&#243;n pavo 100 g Piedra</name>
+									<ean>0150000000198</ean>
+									<manufacturer>Jos&#233; y Miguel Piedra Fortes, S.L.
+									</manufacturer>
+									<brand>Hnos. Piedra</brand>
+									<categoryId>025</categoryId>
+									<categoryName>Categ_0000413</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>199</id>
+									<fitType>01</fitType>
+									<name>Sobre chorizo pavo 100 g Piedra</name>
+									<ean>0150000000199</ean>
+									<manufacturer>Jos&#233; y Miguel Piedra Fortes, S.L.
+									</manufacturer>
+									<brand>Hnos. Piedra</brand>
+									<categoryId>025</categoryId>
+									<categoryName>Categ_0000413</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>200</id>
+									<fitType>01</fitType>
+									<name>Sobre salchich&#243;n Tunel 100 g Piedra</name>
+									<ean>0150000000200</ean>
+									<manufacturer>Jos&#233; y Miguel Piedra Fortes, S.L.
+									</manufacturer>
+									<brand>Hnos. Piedra</brand>
+									<categoryId>025</categoryId>
+									<categoryName>Categ_0000413</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>201</id>
+									<fitType>01</fitType>
+									<name>Sobre lomito Duroc 100 g Piedra</name>
+									<ean>0150000000201</ean>
+									<manufacturer>Jos&#233; y Miguel Piedra Fortes, S.L.
+									</manufacturer>
+									<brand>Hnos. Piedra</brand>
+									<categoryId>025</categoryId>
+									<categoryName>Categ_0000413</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>202</id>
+									<fitType>01</fitType>
+									<name>Sobre chorizo T&#250;nel 100 g Piedra</name>
+									<ean>0150000000202</ean>
+									<manufacturer>Jos&#233; y Miguel Piedra Fortes, S.L.
+									</manufacturer>
+									<brand>Hnos. Piedra</brand>
+									<categoryId>025</categoryId>
+									<categoryName>Categ_0000413</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>203</id>
+									<fitType>02</fitType>
+									<name>Sobre salami 100 g Piedra</name>
+									<ean>0150000000203</ean>
+									<manufacturer>Jos&#233; y Miguel Piedra Fortes, S.L.
+									</manufacturer>
+									<brand>Hnos. Piedra</brand>
+									<categoryId>025</categoryId>
+									<categoryName>Categ_0000413</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>204</id>
+									<fitType>01</fitType>
+									<name>Sobre lomo pimienta 100 g Piedra</name>
+									<ean>0150000000204</ean>
+									<manufacturer>Jos&#233; y Miguel Piedra Fortes, S.L.
+									</manufacturer>
+									<brand>Hnos. Piedra</brand>
+									<categoryId>025</categoryId>
+									<categoryName>Categ_0000413</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>205</id>
+									<fitType>01</fitType>
+									<name>Sobre bac&#243;n extra 100 g Piedra</name>
+									<ean>0150000000205</ean>
+									<manufacturer>Jos&#233; y Miguel Piedra Fortes, S.L.
+									</manufacturer>
+									<brand>Hnos. Piedra</brand>
+									<categoryId>025</categoryId>
+									<categoryName>Categ_0000413</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>206</id>
+									<fitType>01</fitType>
+									<name>Sobre bud&#237;n 100 g Piedra</name>
+									<ean>0150000000206</ean>
+									<manufacturer>Jos&#233; y Miguel Piedra Fortes, S.L.
+									</manufacturer>
+									<brand>Hnos. Piedra</brand>
+									<categoryId>025</categoryId>
+									<categoryName>Categ_0000413</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>207</id>
+									<fitType>01</fitType>
+									<name>Magdalenas 8 uds, 230 g</name>
+									<ean>0150000000207</ean>
+									<manufacturer>Marenostrum Export, S.L.</manufacturer>
+									<brand>Celiave</brand>
+									<categoryId>025</categoryId>
+									<categoryName>Categ_0000413</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>208</id>
+									<fitType>02</fitType>
+									<name>Plumcake 300 g</name>
+									<ean>0150000000208</ean>
+									<manufacturer>Marenostrum Export, S.L.</manufacturer>
+									<brand>Celiave</brand>
+									<categoryId>025</categoryId>
+									<categoryName>Categ_0000413</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>209</id>
+									<fitType>01</fitType>
+									<name>Palmeras 100 g</name>
+									<ean>0150000000209</ean>
+									<manufacturer>Marenostrum Export, S.L.</manufacturer>
+									<brand>Celiave</brand>
+									<categoryId>025</categoryId>
+									<categoryName>Categ_0000413</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>210</id>
+									<fitType>01</fitType>
+									<name>Palmeras con chocolate 100 g</name>
+									<ean>0150000000210</ean>
+									<manufacturer>Marenostrum Export, S.L.</manufacturer>
+									<brand>Celiave</brand>
+									<categoryId>025</categoryId>
+									<categoryName>Categ_0000413</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>211</id>
+									<fitType>01</fitType>
+									<name>Harina de ma&#237;z 1000 g</name>
+									<ean>0150000000211</ean>
+									<manufacturer>Marenostrum Export, S.L.</manufacturer>
+									<brand>Celiave</brand>
+									<categoryId>025</categoryId>
+									<categoryName>Categ_0000413</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>212</id>
+									<fitType>02</fitType>
+									<name>Harina de ma&#237;z 500 g</name>
+									<ean>0150000000212</ean>
+									<manufacturer>Marenostrum Export, S.L.</manufacturer>
+									<brand>Celiave</brand>
+									<categoryId>025</categoryId>
+									<categoryName>Categ_0000413</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+						<category>
+							<id>026</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000414</name>
+							<parentId>019</parentId>
+							<products>
+								<product>
+									<id>213</id>
+									<fitType>01</fitType>
+									<name>Harina panadera 1000 g</name>
+									<ean>0150000000213</ean>
+									<manufacturer>Marenostrum Export, S.L.</manufacturer>
+									<brand>Celiave</brand>
+									<categoryId>026</categoryId>
+									<categoryName>Categ_0000414</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>214</id>
+									<fitType>01</fitType>
+									<name>Chocolate a la taza con az&#250;car 500 g</name>
+									<ean>0150000000214</ean>
+									<manufacturer>Marenostrum Export, S.L.</manufacturer>
+									<brand>Celiave</brand>
+									<categoryId>026</categoryId>
+									<categoryName>Categ_0000414</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>215</id>
+									<fitType>01</fitType>
+									<name>Rizos 350 g</name>
+									<ean>0150000000215</ean>
+									<manufacturer>Marenostrum Export, S.L.</manufacturer>
+									<brand>Celiave</brand>
+									<categoryId>026</categoryId>
+									<categoryName>Categ_0000414</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>216</id>
+									<fitType>02</fitType>
+									<name>Rizos al huevo 500 g</name>
+									<ean>0150000000216</ean>
+									<manufacturer>Marenostrum Export, S.L.</manufacturer>
+									<brand>Celiave</brand>
+									<categoryId>026</categoryId>
+									<categoryName>Categ_0000414</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>217</id>
+									<fitType>01</fitType>
+									<name>Fideos 500 g</name>
+									<ean>0150000000217</ean>
+									<manufacturer>Marenostrum Export, S.L.</manufacturer>
+									<brand>Celiave</brand>
+									<categoryId>026</categoryId>
+									<categoryName>Categ_0000414</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>218</id>
+									<fitType>01</fitType>
+									<name>Fideos sin huevo sin lactosa 500 g</name>
+									<ean>0150000000218</ean>
+									<manufacturer>Marenostrum Export, S.L.</manufacturer>
+									<brand>Celiave</brand>
+									<categoryId>026</categoryId>
+									<categoryName>Categ_0000414</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>219</id>
+									<fitType>01</fitType>
+									<name>Rizos sin huevo sin lactosa 350 g</name>
+									<ean>0150000000219</ean>
+									<manufacturer>Marenostrum Export, S.L.</manufacturer>
+									<brand>Celiave</brand>
+									<categoryId>026</categoryId>
+									<categoryName>Categ_0000414</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>220</id>
+									<fitType>01</fitType>
+									<name>Rizos ma&#237;z sin huevo sin lactosa 500 g</name>
+									<ean>0150000000220</ean>
+									<manufacturer>Marenostrum Export, S.L.</manufacturer>
+									<brand>Celiave</brand>
+									<categoryId>026</categoryId>
+									<categoryName>Categ_0000414</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>221</id>
+									<fitType>02</fitType>
+									<name>Corn flakes 250 g</name>
+									<ean>0150000000221</ean>
+									<manufacturer>Marenostrum Export, S.L.</manufacturer>
+									<brand>Celiave</brand>
+									<categoryId>026</categoryId>
+									<categoryName>Categ_0000414</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>222</id>
+									<fitType>01</fitType>
+									<name>Choco arroz 250 g</name>
+									<ean>0150000000222</ean>
+									<manufacturer>Marenostrum Export, S.L.</manufacturer>
+									<brand>Celiave</brand>
+									<categoryId>026</categoryId>
+									<categoryName>Categ_0000414</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+					</category>
+					<category>
+						<id>020</id>
+						<isLeaf>false</isLeaf>
+						<name>Categ_0000042</name>
+						<parentId>018</parentId>
+						<category>
+							<id>027</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000421</name>
+							<parentId>020</parentId>
+							<products>
+								<product>
+									<id>223</id>
+									<fitType>01</fitType>
+									<name>Bolitas vainilla chocolate 250 g</name>
+									<ean>0150000000223</ean>
+									<manufacturer>Marenostrum Export, S.L.</manufacturer>
+									<brand>Celiave</brand>
+									<categoryId>027</categoryId>
+									<categoryName>Categ_0000421</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>224</id>
+									<fitType>01</fitType>
+									<name>Integral corn flakes 250 g</name>
+									<ean>0150000000224</ean>
+									<manufacturer>Marenostrum Export, S.L.</manufacturer>
+									<brand>Celiave</brand>
+									<categoryId>027</categoryId>
+									<categoryName>Categ_0000421</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>225</id>
+									<fitType>01</fitType>
+									<name>Integral cacao corn flakes 250 g</name>
+									<ean>0150000000225</ean>
+									<manufacturer>Marenostrum Export, S.L.</manufacturer>
+									<brand>Celiave</brand>
+									<categoryId>027</categoryId>
+									<categoryName>Categ_0000421</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>226</id>
+									<fitType>02</fitType>
+									<name>Corn crisps 250 g</name>
+									<ean>0150000000226</ean>
+									<manufacturer>Marenostrum Export, S.L.</manufacturer>
+									<brand>Celiave</brand>
+									<categoryId>027</categoryId>
+									<categoryName>Categ_0000421</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>227</id>
+									<fitType>01</fitType>
+									<name>Bolitas ma&#237;z chocolateadas 250 g</name>
+									<ean>0150000000227</ean>
+									<manufacturer>Marenostrum Export, S.L.</manufacturer>
+									<brand>Celiave</brand>
+									<categoryId>027</categoryId>
+									<categoryName>Categ_0000421</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>228</id>
+									<fitType>01</fitType>
+									<name>Alb&#243;ndigas de At&#250;n en salsa</name>
+									<ean>0150000000228</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>027</categoryId>
+									<categoryName>Categ_0000421</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>229</id>
+									<fitType>01</fitType>
+									<name>Alb&#243;ndigas de choco en salsa</name>
+									<ean>0150000000229</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>027</categoryId>
+									<categoryName>Categ_0000421</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+						<category>
+							<id>028</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000422</name>
+							<parentId>020</parentId>
+							<products>
+								<product>
+									<id>230</id>
+									<fitType>01</fitType>
+									<name>Alb&#243;ndigas de pollo con tomate</name>
+									<ean>0150000000230</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>028</categoryId>
+									<categoryName>Categ_0000422</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>231</id>
+									<fitType>02</fitType>
+									<name>Alb&#243;ndigas de pollo en salsa</name>
+									<ean>0150000000231</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>028</categoryId>
+									<categoryName>Categ_0000422</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>232</id>
+									<fitType>01</fitType>
+									<name>Arroz con pollo</name>
+									<ean>0150000000232</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>028</categoryId>
+									<categoryName>Categ_0000422</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>233</id>
+									<fitType>01</fitType>
+									<name>Arroz con verduras</name>
+									<ean>0150000000233</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>028</categoryId>
+									<categoryName>Categ_0000422</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>234</id>
+									<fitType>02</fitType>
+									<name>Arroz mixto</name>
+									<ean>0150000000234</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>028</categoryId>
+									<categoryName>Categ_0000422</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>235</id>
+									<fitType>01</fitType>
+									<name>At&#250;n con tomate</name>
+									<ean>0150000000235</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>028</categoryId>
+									<categoryName>Categ_0000422</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>236</id>
+									<fitType>01</fitType>
+									<name>At&#250;n encebollado</name>
+									<ean>0150000000236</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>028</categoryId>
+									<categoryName>Categ_0000422</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>237</id>
+									<fitType>01</fitType>
+									<name>Bacalao con tomate</name>
+									<ean>0150000000237</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>028</categoryId>
+									<categoryName>Categ_0000422</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>238</id>
+									<fitType>01</fitType>
+									<name>Base de alb&#243;ndigas de at&#250;n</name>
+									<ean>0150000000238</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>028</categoryId>
+									<categoryName>Categ_0000422</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>239</id>
+									<fitType>02</fitType>
+									<name>Base de alb&#243;ndigas de choco</name>
+									<ean>0150000000239</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>028</categoryId>
+									<categoryName>Categ_0000422</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>240</id>
+									<fitType>01</fitType>
+									<name>Base de alb&#243;ndigas de pollo</name>
+									<ean>0150000000240</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>028</categoryId>
+									<categoryName>Categ_0000422</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>241</id>
+									<fitType>01</fitType>
+									<name>Calamares a la Riojana</name>
+									<ean>0150000000241</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>028</categoryId>
+									<categoryName>Categ_0000422</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>242</id>
+									<fitType>01</fitType>
+									<name>Calamares en su tinta</name>
+									<ean>0150000000242</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>028</categoryId>
+									<categoryName>Categ_0000422</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>243</id>
+									<fitType>01</fitType>
+									<name>Carne con tomate</name>
+									<ean>0150000000243</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>028</categoryId>
+									<categoryName>Categ_0000422</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>244</id>
+									<fitType>02</fitType>
+									<name>Carne en salsa</name>
+									<ean>0150000000244</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>028</categoryId>
+									<categoryName>Categ_0000422</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>245</id>
+									<fitType>01</fitType>
+									<name>Carrillada de cerdo</name>
+									<ean>0150000000245</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>028</categoryId>
+									<categoryName>Categ_0000422</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>246</id>
+									<fitType>01</fitType>
+									<name>Cerdo a la miel</name>
+									<ean>0150000000246</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>028</categoryId>
+									<categoryName>Categ_0000422</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>247</id>
+									<fitType>01</fitType>
+									<name>Champi&#241;ones en salsa</name>
+									<ean>0150000000247</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>028</categoryId>
+									<categoryName>Categ_0000422</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+						<category>
+							<id>029</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000423</name>
+							<parentId>020</parentId>
+							<products>
+								<product>
+									<id>248</id>
+									<fitType>01</fitType>
+									<name>Chicharros estofados</name>
+									<ean>0150000000248</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>029</categoryId>
+									<categoryName>Categ_0000423</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>249</id>
+									<fitType>02</fitType>
+									<name>Coliflor cocida</name>
+									<ean>0150000000249</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>029</categoryId>
+									<categoryName>Categ_0000423</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>250</id>
+									<fitType>01</fitType>
+									<name>Coliflor esparragada</name>
+									<ean>0150000000250</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>029</categoryId>
+									<categoryName>Categ_0000423</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>251</id>
+									<fitType>01</fitType>
+									<name>Ensalada italiana</name>
+									<ean>0150000000251</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>029</categoryId>
+									<categoryName>Categ_0000423</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>252</id>
+									<fitType>01</fitType>
+									<name>Ensaladilla</name>
+									<ean>0150000000252</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>029</categoryId>
+									<categoryName>Categ_0000423</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>253</id>
+									<fitType>02</fitType>
+									<name>Espaguetis Bolo&#241;esa</name>
+									<ean>0150000000253</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>029</categoryId>
+									<categoryName>Categ_0000423</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>254</id>
+									<fitType>02</fitType>
+									<name>Espaguetis Carbonara</name>
+									<ean>0150000000254</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>029</categoryId>
+									<categoryName>Categ_0000423</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>255</id>
+									<fitType>01</fitType>
+									<name>Espaguetis con tomate</name>
+									<ean>0150000000255</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>029</categoryId>
+									<categoryName>Categ_0000423</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>256</id>
+									<fitType>02</fitType>
+									<name>Espinacas con garbanzos</name>
+									<ean>0150000000256</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>029</categoryId>
+									<categoryName>Categ_0000423</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>257</id>
+									<fitType>01</fitType>
+									<name>Estofado de cerdo con patatas</name>
+									<ean>0150000000257</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>029</categoryId>
+									<categoryName>Categ_0000423</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>258</id>
+									<fitType>01</fitType>
+									<name>Estofado de patatas con ternera</name>
+									<ean>0150000000258</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>029</categoryId>
+									<categoryName>Categ_0000423</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>259</id>
+									<fitType>02</fitType>
+									<name>Flan de huevo</name>
+									<ean>0150000000259</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>029</categoryId>
+									<categoryName>Categ_0000423</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>260</id>
+									<fitType>02</fitType>
+									<name>Garbanzos con bacalao</name>
+									<ean>0150000000260</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>029</categoryId>
+									<categoryName>Categ_0000423</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>261</id>
+									<fitType>02</fitType>
+									<name>Garbanzos con calabaza</name>
+									<ean>0150000000261</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>029</categoryId>
+									<categoryName>Categ_0000423</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+						<category>
+							<id>030</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000424</name>
+							<parentId>020</parentId>
+							<products>
+								<product>
+									<id>262</id>
+									<fitType>01</fitType>
+									<name>Gazpacho</name>
+									<ean>0150000000262</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>030</categoryId>
+									<categoryName>Categ_0000424</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+					</category>
+					<category>
+						<id>021</id>
+						<isLeaf>false</isLeaf>
+						<name>Categ_0000043</name>
+						<parentId>018</parentId>
+						<category>
+							<id>031</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000431</name>
+							<parentId>021</parentId>
+							<products>
+								<product>
+									<id>263</id>
+									<fitType>01</fitType>
+									<name>Habas con jam&#243;n</name>
+									<ean>0150000000263</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>031</categoryId>
+									<categoryName>Categ_0000431</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>264</id>
+									<fitType>01</fitType>
+									<name>Lentejas</name>
+									<ean>0150000000264</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>031</categoryId>
+									<categoryName>Categ_0000431</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>265</id>
+									<fitType>02</fitType>
+									<name>Macarrones Bolo&#241;esa</name>
+									<ean>0150000000265</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>031</categoryId>
+									<categoryName>Categ_0000431</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>266</id>
+									<fitType>01</fitType>
+									<name>Macarrones Carbonara</name>
+									<ean>0150000000266</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>031</categoryId>
+									<categoryName>Categ_0000431</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>267</id>
+									<fitType>01</fitType>
+									<name>Macarrones con tomate</name>
+									<ean>0150000000267</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>031</categoryId>
+									<categoryName>Categ_0000431</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>268</id>
+									<fitType>02</fitType>
+									<name>Mahonesa</name>
+									<ean>0150000000268</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>031</categoryId>
+									<categoryName>Categ_0000431</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>269</id>
+									<fitType>02</fitType>
+									<name>Medallones de tomate</name>
+									<ean>0150000000269</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>031</categoryId>
+									<categoryName>Categ_0000431</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>270</id>
+									<fitType>01</fitType>
+									<name>Merluza a la asturiana</name>
+									<ean>0150000000270</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>031</categoryId>
+									<categoryName>Categ_0000431</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>271</id>
+									<fitType>01</fitType>
+									<name>Merluza a la marinera</name>
+									<ean>0150000000271</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>031</categoryId>
+									<categoryName>Categ_0000431</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>272</id>
+									<fitType>01</fitType>
+									<name>Merluza en salsa de &#241;oras</name>
+									<ean>0150000000272</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>031</categoryId>
+									<categoryName>Categ_0000431</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>273</id>
+									<fitType>02</fitType>
+									<name>Paella de arroz mixto</name>
+									<ean>0150000000273</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>031</categoryId>
+									<categoryName>Categ_0000431</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+						<category>
+							<id>032</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000432</name>
+							<parentId>021</parentId>
+							<products>
+								<product>
+									<id>274</id>
+									<fitType>01</fitType>
+									<name>Paella de arroz negro</name>
+									<ean>0150000000274</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>032</categoryId>
+									<categoryName>Categ_0000432</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>275</id>
+									<fitType>01</fitType>
+									<name>Paella de carne</name>
+									<ean>0150000000275</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>032</categoryId>
+									<categoryName>Categ_0000432</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+						<category>
+							<id>033</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000433</name>
+							<parentId>021</parentId>
+							<products>
+								<product>
+									<id>276</id>
+									<fitType>01</fitType>
+									<name>Paella de verduras</name>
+									<ean>0150000000276</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>033</categoryId>
+									<categoryName>Categ_0000433</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>277</id>
+									<fitType>02</fitType>
+									<name>Pastel de berenjenas</name>
+									<ean>0150000000277</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>033</categoryId>
+									<categoryName>Categ_0000433</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>278</id>
+									<fitType>01</fitType>
+									<name>Pastel de espinacas</name>
+									<ean>0150000000278</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>033</categoryId>
+									<categoryName>Categ_0000433</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>279</id>
+									<fitType>02</fitType>
+									<name>Patatas alioli</name>
+									<ean>0150000000279</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>033</categoryId>
+									<categoryName>Categ_0000433</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>280</id>
+									<fitType>02</fitType>
+									<name>Patatas con chocos</name>
+									<ean>0150000000280</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>033</categoryId>
+									<categoryName>Categ_0000433</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>281</id>
+									<fitType>02</fitType>
+									<name>Pisto de verdura</name>
+									<ean>0150000000281</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>033</categoryId>
+									<categoryName>Categ_0000433</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+						<category>
+							<id>034</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000434</name>
+							<parentId>021</parentId>
+							<products>
+								<product>
+									<id>282</id>
+									<fitType>01</fitType>
+									<name>Pollo al ajo</name>
+									<ean>0150000000282</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>034</categoryId>
+									<categoryName>Categ_0000434</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>283</id>
+									<fitType>01</fitType>
+									<name>Pollo con champi&#241;ones</name>
+									<ean>0150000000283</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>034</categoryId>
+									<categoryName>Categ_0000434</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+					</category>
+					<category>
+						<id>022</id>
+						<isLeaf>false</isLeaf>
+						<name>Categ_0000044</name>
+						<parentId>018</parentId>
+						<category>
+							<id>035</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000441</name>
+							<parentId>022</parentId>
+							<products>
+								<product>
+									<id>284</id>
+									<fitType>01</fitType>
+									<name>Pollo asado</name>
+									<ean>0150000000284</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>035</categoryId>
+									<categoryName>Categ_0000441</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>285</id>
+									<fitType>01</fitType>
+									<name>Ri&#241;ones al jerez</name>
+									<ean>0150000000285</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>035</categoryId>
+									<categoryName>Categ_0000441</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>286</id>
+									<fitType>02</fitType>
+									<name>Salsa Bolo&#241;esa</name>
+									<ean>0150000000286</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>035</categoryId>
+									<categoryName>Categ_0000441</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>287</id>
+									<fitType>01</fitType>
+									<name>Sangre con tomate</name>
+									<ean>0150000000287</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>035</categoryId>
+									<categoryName>Categ_0000441</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>288</id>
+									<fitType>02</fitType>
+									<name>Sangre encebollada</name>
+									<ean>0150000000288</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>035</categoryId>
+									<categoryName>Categ_0000441</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>289</id>
+									<fitType>01</fitType>
+									<name>Tomate frito</name>
+									<ean>0150000000289</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>035</categoryId>
+									<categoryName>Categ_0000441</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>290</id>
+									<fitType>01</fitType>
+									<name>Tomatina</name>
+									<ean>0150000000290</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>035</categoryId>
+									<categoryName>Categ_0000441</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>291</id>
+									<fitType>01</fitType>
+									<name>Tortilla campesina</name>
+									<ean>0150000000291</ean>
+									<manufacturer>Mediterr&#225;nea de Guisos, S.L.</manufacturer>
+									<brand>Mediterr&#225;nea de Guisos</brand>
+									<categoryId>035</categoryId>
+									<categoryName>Categ_0000441</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>292</id>
+									<fitType>01</fitType>
+									<name>Preparado de fabada</name>
+									<ean>0150000000292</ean>
+									<manufacturer>Rafael Blanco Huergo</manufacturer>
+									<brand>Legumbres la Madera</brand>
+									<categoryId>035</categoryId>
+									<categoryName>Categ_0000441</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>293</id>
+									<fitType>02</fitType>
+									<name>Alb&#243;ndigas de carne</name>
+									<ean>0150000000293</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>035</categoryId>
+									<categoryName>Categ_0000441</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>294</id>
+									<fitType>01</fitType>
+									<name>Pinchos de pollo</name>
+									<ean>0150000000294</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>035</categoryId>
+									<categoryName>Categ_0000441</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>295</id>
+									<fitType>01</fitType>
+									<name>Chorizo aperitivo oreado</name>
+									<ean>0150000000295</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>035</categoryId>
+									<categoryName>Categ_0000441</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+						<category>
+							<id>036</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000442</name>
+							<parentId>022</parentId>
+							<products>
+								<product>
+									<id>296</id>
+									<fitType>01</fitType>
+									<name>Chorizo casero oreado</name>
+									<ean>0150000000296</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>036</categoryId>
+									<categoryName>Categ_0000442</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>297</id>
+									<fitType>02</fitType>
+									<name>Chorizo fresco de pollo</name>
+									<ean>0150000000297</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>036</categoryId>
+									<categoryName>Categ_0000442</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>298</id>
+									<fitType>02</fitType>
+									<name>Hamburguesa de pollo</name>
+									<ean>0150000000298</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>036</categoryId>
+									<categoryName>Categ_0000442</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>299</id>
+									<fitType>01</fitType>
+									<name>Hamburguesa de ternera</name>
+									<ean>0150000000299</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>036</categoryId>
+									<categoryName>Categ_0000442</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>300</id>
+									<fitType>02</fitType>
+									<name>Hamburguesa de verduras</name>
+									<ean>0150000000300</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>036</categoryId>
+									<categoryName>Categ_0000442</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>301</id>
+									<fitType>01</fitType>
+									<name>Hamburguesa mixta</name>
+									<ean>0150000000301</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>036</categoryId>
+									<categoryName>Categ_0000442</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>302</id>
+									<fitType>01</fitType>
+									<name>Picada de ternera</name>
+									<ean>0150000000302</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>036</categoryId>
+									<categoryName>Categ_0000442</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>303</id>
+									<fitType>02</fitType>
+									<name>Longaniza aperitivo</name>
+									<ean>0150000000303</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>036</categoryId>
+									<categoryName>Categ_0000442</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>304</id>
+									<fitType>01</fitType>
+									<name>Longaniza barbacoa</name>
+									<ean>0150000000304</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>036</categoryId>
+									<categoryName>Categ_0000442</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>305</id>
+									<fitType>02</fitType>
+									<name>Longaniza de Pascua</name>
+									<ean>0150000000305</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>036</categoryId>
+									<categoryName>Categ_0000442</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>306</id>
+									<fitType>01</fitType>
+									<name>Longaniza fresca</name>
+									<ean>0150000000306</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>036</categoryId>
+									<categoryName>Categ_0000442</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>307</id>
+									<fitType>01</fitType>
+									<name>Blanquet</name>
+									<ean>0150000000307</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>036</categoryId>
+									<categoryName>Categ_0000442</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+						<category>
+							<id>037</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000443</name>
+							<parentId>022</parentId>
+							<products>
+								<product>
+									<id>308</id>
+									<fitType>01</fitType>
+									<name>Morcilla de carne (Botifarr&#243;n)</name>
+									<ean>0150000000308</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>037</categoryId>
+									<categoryName>Categ_0000443</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>309</id>
+									<fitType>02</fitType>
+									<name>Morcilla de cebolla aperitivo oreada</name>
+									<ean>0150000000309</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>037</categoryId>
+									<categoryName>Categ_0000443</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>310</id>
+									<fitType>02</fitType>
+									<name>Morcilla de cebolla blanca</name>
+									<ean>0150000000310</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>037</categoryId>
+									<categoryName>Categ_0000443</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>311</id>
+									<fitType>01</fitType>
+									<name>Morcilla de cebolla fresca</name>
+									<ean>0150000000311</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>037</categoryId>
+									<categoryName>Categ_0000443</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>312</id>
+									<fitType>01</fitType>
+									<name>Morcilla de cebolla oreada</name>
+									<ean>0150000000312</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>037</categoryId>
+									<categoryName>Categ_0000443</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>313</id>
+									<fitType>02</fitType>
+									<name>Tarro de morcillas en aceite</name>
+									<ean>0150000000313</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>037</categoryId>
+									<categoryName>Categ_0000443</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>314</id>
+									<fitType>01</fitType>
+									<name>Tarro pasta morcilla fresca</name>
+									<ean>0150000000314</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>037</categoryId>
+									<categoryName>Categ_0000443</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>315</id>
+									<fitType>01</fitType>
+									<name>Poltrot (pelota cocido)</name>
+									<ean>0150000000315</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>037</categoryId>
+									<categoryName>Categ_0000443</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>316</id>
+									<fitType>02</fitType>
+									<name>Sobrasada casera</name>
+									<ean>0150000000316</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>037</categoryId>
+									<categoryName>Categ_0000443</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>317</id>
+									<fitType>01</fitType>
+									<name>Tarrina de sobrasada</name>
+									<ean>0150000000317</ean>
+									<manufacturer>Rodrigo Embotits Artesans, S.L.</manufacturer>
+									<brand>Embutidos Rodrigo</brand>
+									<categoryId>037</categoryId>
+									<categoryName>Categ_0000443</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>318</id>
+									<fitType>01</fitType>
+									<name>Fusilli</name>
+									<ean>0150000000318</ean>
+									<manufacturer>Sam Mills, S.R.L.</manufacturer>
+									<brand>Pasta d&#180; Oro</brand>
+									<categoryId>037</categoryId>
+									<categoryName>Categ_0000443</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>319</id>
+									<fitType>02</fitType>
+									<name>Cornetti rigati</name>
+									<ean>0150000000319</ean>
+									<manufacturer>Sam Mills, S.R.L.</manufacturer>
+									<brand>Pasta d&#180; Oro</brand>
+									<categoryId>037</categoryId>
+									<categoryName>Categ_0000443</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>320</id>
+									<fitType>01</fitType>
+									<name>Penne rigate</name>
+									<ean>0150000000320</ean>
+									<manufacturer>Sam Mills, S.R.L.</manufacturer>
+									<brand>Pasta d&#180; Oro</brand>
+									<categoryId>037</categoryId>
+									<categoryName>Categ_0000443</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>321</id>
+									<fitType>01</fitType>
+									<name>Tubette rigati</name>
+									<ean>0150000000321</ean>
+									<manufacturer>Sam Mills, S.R.L.</manufacturer>
+									<brand>Pasta d&#180; Oro</brand>
+									<categoryId>037</categoryId>
+									<categoryName>Categ_0000443</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+						<category>
+							<id>038</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000444</name>
+							<parentId>022</parentId>
+							<products>
+								<product>
+									<id>322</id>
+									<fitType>01</fitType>
+									<name>Lasagne corte</name>
+									<ean>0150000000322</ean>
+									<manufacturer>Sam Mills, S.R.L.</manufacturer>
+									<brand>Pasta d&#180; Oro</brand>
+									<categoryId>038</categoryId>
+									<categoryName>Categ_0000444</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>323</id>
+									<fitType>02</fitType>
+									<name>Conchiliette</name>
+									<ean>0150000000323</ean>
+									<manufacturer>Sam Mills, S.R.L.</manufacturer>
+									<brand>Pasta d&#180; Oro</brand>
+									<categoryId>038</categoryId>
+									<categoryName>Categ_0000444</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>324</id>
+									<fitType>01</fitType>
+									<name>Pipette</name>
+									<ean>0150000000324</ean>
+									<manufacturer>Sam Mills, S.R.L.</manufacturer>
+									<brand>Pasta d&#180; Oro</brand>
+									<categoryId>038</categoryId>
+									<categoryName>Categ_0000444</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>325</id>
+									<fitType>01</fitType>
+									<name>Tagliatele</name>
+									<ean>0150000000325</ean>
+									<manufacturer>Sam Mills, S.R.L.</manufacturer>
+									<brand>Pasta d&#180; Oro</brand>
+									<categoryId>038</categoryId>
+									<categoryName>Categ_0000444</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>326</id>
+									<fitType>02</fitType>
+									<name>Quadrati</name>
+									<ean>0150000000326</ean>
+									<manufacturer>Sam Mills, S.R.L.</manufacturer>
+									<brand>Pasta d&#180; Oro</brand>
+									<categoryId>038</categoryId>
+									<categoryName>Categ_0000444</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>327</id>
+									<fitType>01</fitType>
+									<name>Rigatoni</name>
+									<ean>0150000000327</ean>
+									<manufacturer>Sam Mills, S.R.L.</manufacturer>
+									<brand>Pasta d&#180; Oro</brand>
+									<categoryId>038</categoryId>
+									<categoryName>Categ_0000444</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>328</id>
+									<fitType>01</fitType>
+									<name>Cavatappi</name>
+									<ean>0150000000328</ean>
+									<manufacturer>Sam Mills, S.R.L.</manufacturer>
+									<brand>Pasta d&#180; Oro</brand>
+									<categoryId>038</categoryId>
+									<categoryName>Categ_0000444</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>329</id>
+									<fitType>02</fitType>
+									<name>Spaghetti</name>
+									<ean>0150000000329</ean>
+									<manufacturer>Sam Mills, S.R.L.</manufacturer>
+									<brand>Pasta d&#180; Oro</brand>
+									<categoryId>038</categoryId>
+									<categoryName>Categ_0000444</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+					</category>
+				</category>
+				<category>
+					<id>039</id>
+					<isLeaf>false</isLeaf>
+					<name>Categ_0000005</name>
+					<parentId>-1</parentId>
+					<category>
+						<id>040</id>
+						<isLeaf>false</isLeaf>
+						<name>Categ_0000051</name>
+						<parentId>039</parentId>
+						<category>
+							<id>045</id>
+							<isLeaf>false</isLeaf>
+							<name>Categ_0000511</name>
+							<parentId>040</parentId>
+							<category>
+								<id>048</id>
+								<isLeaf>false</isLeaf>
+								<name>Categ_0005111</name>
+								<parentId>045</parentId>
+								<category>
+									<id>049</id>
+									<isLeaf>false</isLeaf>
+									<name>Categ_0051111</name>
+									<parentId>048</parentId>
+									<category>
+										<id>051</id>
+										<isLeaf>false</isLeaf>
+										<name>Categ_0511111</name>
+										<parentId>049</parentId>
+										<category>
+											<id>052</id>
+											<isLeaf>true</isLeaf>
+											<name>Categ_5111111</name>
+											<parentId>051</parentId>
+										</category>
+									</category>
+								</category>
+								<category>
+									<id>050</id>
+									<isLeaf>true</isLeaf>
+									<name>Categ_0051112</name>
+									<parentId>048</parentId>
+									<products>
+										<product>
+											<id>370</id>
+											<fitType>02</fitType>
+											<name>Tartisin casera</name>
+											<ean>0150000000370</ean>
+											<manufacturer>TEBA El Catering Sin</manufacturer>
+											<brand>Teba</brand>
+											<categoryId>050</categoryId>
+											<categoryName>Categ_0051112</categoryName>
+											<dischargeDate>10/10/2010</dischargeDate>
+										</product>
+									</products>
+								</category>
+							</category>
+						</category>
+						<category>
+							<id>046</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000512</name>
+							<parentId>040</parentId>
+							<products>
+								<product>
+									<id>361</id>
+									<fitType>01</fitType>
+									<name>Patata asada con York y queso</name>
+									<ean>0150000000361</ean>
+									<manufacturer>TEBA El Catering Sin</manufacturer>
+									<brand>Teba</brand>
+									<categoryId>046</categoryId>
+									<categoryName>Categ_0000512</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>362</id>
+									<fitType>01</fitType>
+									<name>Pechuga de crema con almendras</name>
+									<ean>0150000000362</ean>
+									<manufacturer>TEBA El Catering Sin</manufacturer>
+									<brand>Teba</brand>
+									<categoryId>046</categoryId>
+									<categoryName>Categ_0000512</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>363</id>
+									<fitType>02</fitType>
+									<name>Tortilla de berenjena</name>
+									<ean>0150000000363</ean>
+									<manufacturer>TEBA El Catering Sin</manufacturer>
+									<brand>Teba</brand>
+									<categoryId>046</categoryId>
+									<categoryName>Categ_0000512</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+						<category>
+							<id>047</id>
+							<isLeaf>true</isLeaf>
+							<name>Categ_0000513</name>
+							<parentId>040</parentId>
+							<products>
+								<product>
+									<id>364</id>
+									<fitType>01</fitType>
+									<name>Macarrones con at&#250;n</name>
+									<ean>0150000000364</ean>
+									<manufacturer>TEBA El Catering Sin</manufacturer>
+									<brand>Teba</brand>
+									<categoryId>047</categoryId>
+									<categoryName>Categ_0000513</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>365</id>
+									<fitType>01</fitType>
+									<name>Mini pizzas caseras</name>
+									<ean>0150000000365</ean>
+									<manufacturer>TEBA El Catering Sin</manufacturer>
+									<brand>Teba</brand>
+									<categoryId>047</categoryId>
+									<categoryName>Categ_0000513</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>366</id>
+									<fitType>01</fitType>
+									<name>Bizcocho de manzana casero</name>
+									<ean>0150000000366</ean>
+									<manufacturer>TEBA El Catering Sin</manufacturer>
+									<brand>Teba</brand>
+									<categoryId>047</categoryId>
+									<categoryName>Categ_0000513</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>367</id>
+									<fitType>02</fitType>
+									<name>Bizcocho estrella casero</name>
+									<ean>0150000000367</ean>
+									<manufacturer>TEBA El Catering Sin</manufacturer>
+									<brand>Teba</brand>
+									<categoryId>047</categoryId>
+									<categoryName>Categ_0000513</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>368</id>
+									<fitType>02</fitType>
+									<name>Chocosin casero</name>
+									<ean>0150000000368</ean>
+									<manufacturer>TEBA El Catering Sin</manufacturer>
+									<brand>Teba</brand>
+									<categoryId>047</categoryId>
+									<categoryName>Categ_0000513</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+								<product>
+									<id>369</id>
+									<fitType>01</fitType>
+									<name>Marmolsin casero</name>
+									<ean>0150000000369</ean>
+									<manufacturer>TEBA El Catering Sin</manufacturer>
+									<brand>Teba</brand>
+									<categoryId>047</categoryId>
+									<categoryName>Categ_0000513</categoryName>
+									<dischargeDate>10/10/2010</dischargeDate>
+								</product>
+							</products>
+						</category>
+					</category>
+					<category>
+						<id>041</id>
+						<isLeaf>true</isLeaf>
+						<name>Categ_0000052</name>
+						<parentId>039</parentId>
+						<products>
+							<product>
+								<id>330</id>
+								<fitType>02</fitType>
+								<name>Bucatini</name>
+								<ean>0150000000330</ean>
+								<manufacturer>Sam Mills, S.R.L.</manufacturer>
+								<brand>Pasta d&#180; Oro</brand>
+								<categoryId>041</categoryId>
+								<categoryName>Categ_0000052</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>331</id>
+								<fitType>01</fitType>
+								<name>Fetucine</name>
+								<ean>0150000000331</ean>
+								<manufacturer>Sam Mills, S.R.L.</manufacturer>
+								<brand>Pasta d&#180; Oro</brand>
+								<categoryId>041</categoryId>
+								<categoryName>Categ_0000052</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>332</id>
+								<fitType>01</fitType>
+								<name>Bases de pizza 600g, 4 u</name>
+								<ean>0150000000332</ean>
+								<manufacturer>Suministros diet&#233;ticos controlados, S.L.
+								</manufacturer>
+								<brand>Manacel</brand>
+								<categoryId>041</categoryId>
+								<categoryName>Categ_0000052</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>333</id>
+								<fitType>02</fitType>
+								<name>Pizza cuatro quesos 400 g</name>
+								<ean>0150000000333</ean>
+								<manufacturer>Suministros diet&#233;ticos controlados, S.L.
+								</manufacturer>
+								<brand>Manacel</brand>
+								<categoryId>041</categoryId>
+								<categoryName>Categ_0000052</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>334</id>
+								<fitType>01</fitType>
+								<name>Empanada raci&#243;n hojaldre con jam&#243;n york y queso
+									150 g</name>
+								<ean>0150000000334</ean>
+								<manufacturer>Suministros diet&#233;ticos controlados, S.L.
+								</manufacturer>
+								<brand>Manacel</brand>
+								<categoryId>041</categoryId>
+								<categoryName>Categ_0000052</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>335</id>
+								<fitType>02</fitType>
+								<name>Pan de hamburguesa 2 unidades 200 g</name>
+								<ean>0150000000335</ean>
+								<manufacturer>Suministros diet&#233;ticos controlados, S.L.
+								</manufacturer>
+								<brand>Manacel</brand>
+								<categoryId>041</categoryId>
+								<categoryName>Categ_0000052</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>336</id>
+								<fitType>01</fitType>
+								<name>Bollo pre&#241;ado con chorizo 1 unidad 275 g</name>
+								<ean>0150000000336</ean>
+								<manufacturer>Suministros diet&#233;ticos controlados, S.L.
+								</manufacturer>
+								<brand>Manacel</brand>
+								<categoryId>041</categoryId>
+								<categoryName>Categ_0000052</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>337</id>
+								<fitType>02</fitType>
+								<name>Quesada</name>
+								<ean>0150000000337</ean>
+								<manufacturer>Suministros diet&#233;ticos controlados, S.L.
+								</manufacturer>
+								<brand>Manacel</brand>
+								<categoryId>041</categoryId>
+								<categoryName>Categ_0000052</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>338</id>
+								<fitType>02</fitType>
+								<name>Tarta de chocolate</name>
+								<ean>0150000000338</ean>
+								<manufacturer>Suministros diet&#233;ticos controlados, S.L.
+								</manufacturer>
+								<brand>Manacel</brand>
+								<categoryId>041</categoryId>
+								<categoryName>Categ_0000052</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>339</id>
+								<fitType>01</fitType>
+								<name>Tarta de chocolate sin az&#250;car</name>
+								<ean>0150000000339</ean>
+								<manufacturer>Suministros diet&#233;ticos controlados, S.L.
+								</manufacturer>
+								<brand>Manacel</brand>
+								<categoryId>041</categoryId>
+								<categoryName>Categ_0000052</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>340</id>
+								<fitType>02</fitType>
+								<name>Tarta de almendra</name>
+								<ean>0150000000340</ean>
+								<manufacturer>Suministros diet&#233;ticos controlados, S.L.
+								</manufacturer>
+								<brand>Manacel</brand>
+								<categoryId>041</categoryId>
+								<categoryName>Categ_0000052</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+						</products>
+					</category>
+					<category>
+						<id>042</id>
+						<isLeaf>true</isLeaf>
+						<name>Categ_0000053</name>
+						<parentId>039</parentId>
+						<products>
+							<product>
+								<id>341</id>
+								<fitType>02</fitType>
+								<name>Chocolate a la taza 500 g</name>
+								<ean>0150000000341</ean>
+								<manufacturer>Suministros diet&#233;ticos controlados, S.L.
+								</manufacturer>
+								<brand>Manacel</brand>
+								<categoryId>042</categoryId>
+								<categoryName>Categ_0000053</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>342</id>
+								<fitType>01</fitType>
+								<name>Chocolate a la taza sin az&#250;car 500 g</name>
+								<ean>0150000000342</ean>
+								<manufacturer>Suministros diet&#233;ticos controlados, S.L.
+								</manufacturer>
+								<brand>Manacel</brand>
+								<categoryId>042</categoryId>
+								<categoryName>Categ_0000053</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>343</id>
+								<fitType>01</fitType>
+								<name>Harina reposter&#237;a 1 Kg</name>
+								<ean>0150000000343</ean>
+								<manufacturer>Suministros diet&#233;ticos controlados, S.L.
+								</manufacturer>
+								<brand>Manacel</brand>
+								<categoryId>042</categoryId>
+								<categoryName>Categ_0000053</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>344</id>
+								<fitType>02</fitType>
+								<name>Harina panificable 1 Kg</name>
+								<ean>0150000000344</ean>
+								<manufacturer>Suministros diet&#233;ticos controlados, S.L.
+								</manufacturer>
+								<brand>Manacel</brand>
+								<categoryId>042</categoryId>
+								<categoryName>Categ_0000053</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>345</id>
+								<fitType>02</fitType>
+								<name>Harina de ma&#237;z 1 Kg</name>
+								<ean>0150000000345</ean>
+								<manufacturer>Suministros diet&#233;ticos controlados, S.L.
+								</manufacturer>
+								<brand>Manacel</brand>
+								<categoryId>042</categoryId>
+								<categoryName>Categ_0000053</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>346</id>
+								<fitType>01</fitType>
+								<name>Polvorones 250 g</name>
+								<ean>0150000000346</ean>
+								<manufacturer>Suministros diet&#233;ticos controlados, S.L.
+								</manufacturer>
+								<brand>Manacel</brand>
+								<categoryId>042</categoryId>
+								<categoryName>Categ_0000053</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>347</id>
+								<fitType>01</fitType>
+								<name>Fideos al huevo 500 g</name>
+								<ean>0150000000347</ean>
+								<manufacturer>Suministros diet&#233;ticos controlados, S.L.
+								</manufacturer>
+								<brand>Manacel</brand>
+								<categoryId>042</categoryId>
+								<categoryName>Categ_0000053</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>348</id>
+								<fitType>02</fitType>
+								m
+								<name>Espirales con huevo</name>
+								<ean>0150000000348</ean>
+								<manufacturer>Suministros diet&#233;ticos controlados, S.L.
+								</manufacturer>
+								<brand>Manacel</brand>
+								<categoryId>042</categoryId>
+								<categoryName>Categ_0000053</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+						</products>
+					</category>
+					<category>
+						<id>043</id>
+						<isLeaf>true</isLeaf>
+						<name>Categ_0000054</name>
+						<parentId>039</parentId>
+						<products>
+							<product>
+								<id>349</id>
+								<fitType>02</fitType>
+								<name>Levadura 250 g</name>
+								<ean>0150000000349</ean>
+								<manufacturer>Suministros diet&#233;ticos controlados, S.L.
+								</manufacturer>
+								<brand>Manacel</brand>
+								<categoryId>043</categoryId>
+								<categoryName>Categ_0000054</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>350</id>
+								<fitType>01</fitType>
+								<name>Alb&#243;ndigas con patatas</name>
+								<ean>0150000000350</ean>
+								<manufacturer>TEBA El Catering Sin</manufacturer>
+								<brand>Teba</brand>
+								<categoryId>043</categoryId>
+								<categoryName>Categ_0000054</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+						</products>
+					</category>
+					<category>
+						<id>044</id>
+						<isLeaf>true</isLeaf>
+						<name>Categ_0000055</name>
+						<parentId>039</parentId>
+						<products>
+							<product>
+								<id>351</id>
+								<fitType>01</fitType>
+								<name>Arroz tres delicias</name>
+								<ean>0150000000351</ean>
+								<manufacturer>TEBA El Catering Sin</manufacturer>
+								<brand>Teba</brand>
+								<categoryId>044</categoryId>
+								<categoryName>Categ_0000055</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>352</id>
+								<fitType>01</fitType>
+								<name>Asado de pollo con patatas</name>
+								<ean>0150000000352</ean>
+								<manufacturer>TEBA El Catering Sin</manufacturer>
+								<brand>Teba</brand>
+								<categoryId>044</categoryId>
+								<categoryName>Categ_0000055</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>353</id>
+								<fitType>02</fitType>
+								<name>Delicias de pollo con pur&#233; de patatas</name>
+								<ean>0150000000353</ean>
+								<manufacturer>TEBA El Catering Sin</manufacturer>
+								<brand>Teba</brand>
+								<categoryId>044</categoryId>
+								<categoryName>Categ_0000055</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>354</id>
+								<fitType>01</fitType>
+								<name>Guisado de carne con patatas</name>
+								<ean>0150000000354</ean>
+								<manufacturer>TEBA El Catering Sin</manufacturer>
+								<brand>Teba</brand>
+								<categoryId>044</categoryId>
+								<categoryName>Categ_0000055</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>355</id>
+								<fitType>02</fitType>
+								<name>Guisantes con jam&#243;n</name>
+								<ean>0150000000355</ean>
+								<manufacturer>TEBA El Catering Sin</manufacturer>
+								<brand>Teba</brand>
+								<categoryId>044</categoryId>
+								<categoryName>Categ_0000055</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>356</id>
+								<fitType>01</fitType>
+								<name>Hamburguesas con patatas</name>
+								<ean>0150000000356</ean>
+								<manufacturer>TEBA El Catering Sin</manufacturer>
+								<brand>Teba</brand>
+								<categoryId>044</categoryId>
+								<categoryName>Categ_0000055</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>357</id>
+								<fitType>01</fitType>
+								<name>Jud&#237;as verdes con tomate</name>
+								<ean>0150000000357</ean>
+								<manufacturer>TEBA El Catering Sin</manufacturer>
+								<brand>Teba</brand>
+								<categoryId>044</categoryId>
+								<categoryName>Categ_0000055</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>358</id>
+								<fitType>01</fitType>
+								<name>Lentejas a la riojana</name>
+								<ean>0150000000358</ean>
+								<manufacturer>TEBA El Catering Sin</manufacturer>
+								<brand>Teba</brand>
+								<categoryId>044</categoryId>
+								<categoryName>Categ_0000055</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>359</id>
+								<fitType>01</fitType>
+								<name>Menestra de verduras</name>
+								<ean>0150000000359</ean>
+								<manufacturer>TEBA El Catering Sin</manufacturer>
+								<brand>Teba</brand>
+								<categoryId>044</categoryId>
+								<categoryName>Categ_0000055</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+							<product>
+								<id>360</id>
+								<fitType>01</fitType>
+								<name>Paella valenciana</name>
+								<ean>0150000000360</ean>
+								<manufacturer>TEBA El Catering Sin</manufacturer>
+								<brand>Teba</brand>
+								<categoryId>044</categoryId>
+								<categoryName>Categ_0000055</categoryName>
+								<dischargeDate>10/10/2010</dischargeDate>
+							</product>
+						</products>
+					</category>
+				</category>
+			</category>
+		</demo>
+
+
+
+
+

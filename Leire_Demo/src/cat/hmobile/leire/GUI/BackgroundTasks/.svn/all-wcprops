@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/lei_leirepo/!svn/ver/151/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/BackgroundTasks
+END
+SearchProductByTextTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/lei_leirepo/!svn/ver/133/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/BackgroundTasks/SearchProductByTextTask.java
+END
+ProductsLoaderByBrandTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/lei_leirepo/!svn/ver/141/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/BackgroundTasks/ProductsLoaderByBrandTask.java
+END
+SendTweetTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/lei_leirepo/!svn/ver/151/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/BackgroundTasks/SendTweetTask.java
+END
+ProductsLoaderTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/lei_leirepo/!svn/ver/140/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/BackgroundTasks/ProductsLoaderTask.java
+END
+MicrobloggingTimeLineLoaderTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/lei_leirepo/!svn/ver/149/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/BackgroundTasks/MicrobloggingTimeLineLoaderTask.java
+END
+SearchProductByEANTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/lei_leirepo/!svn/ver/141/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/BackgroundTasks/SearchProductByEANTask.java
+END
+RootCategoriesLoaderTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/lei_leirepo/!svn/ver/140/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/BackgroundTasks/RootCategoriesLoaderTask.java
+END
+SubCategoriesLoaderTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/lei_leirepo/!svn/ver/140/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/GUI/BackgroundTasks/SubCategoriesLoaderTask.java
+END

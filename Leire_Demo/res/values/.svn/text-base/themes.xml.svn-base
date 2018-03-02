@@ -1,0 +1,34 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<style name="Leire" parent="android:Theme.NoTitleBar.Fullscreen">
+	</style>
+	
+    <style name="Leire.Green">
+    	<!-- PageBackground -->    	
+    	<item name="android:background">@color/light_gray</item>
+    	<!--  <item name="android:listViewStyle">@style/list_green</item> -->
+    </style>
+    
+     <style name="Leire.ProgressDialog">
+	     <item name="android:windowBackground">@android:color/transparent</item>
+	     <item name="android:background">@android:color/transparent</item>
+     </style>
+    
+<!--    <style name="Leire.Dialog.Transparent" >-->
+<!--	   <item name="android:windowFrame">@null</item>-->
+<!--	    <item name="android:windowBackground">@android:color/transparent</item>-->
+<!--	    <item name="android:windowIsFloating">false</item>-->
+<!--	    <item name="android:windowContentOverlay">@null</item>-->
+<!--	    <item name="android:windowTitleStyle">@null</item>-->
+<!--	    <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>-->
+<!--	    <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>-->
+<!--	    <item name="android:backgroundDimEnabled">false</item>-->
+<!--	    <item name="android:background">@android:color/transparent</item>-->
+<!--	</style>-->
+	
+	<style name="Leire.Dialog.Alert" parent="android:Theme.Dialog">
+	     <item name="android:windowBackground">@android:color/transparent</item>
+	     <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+</resources>

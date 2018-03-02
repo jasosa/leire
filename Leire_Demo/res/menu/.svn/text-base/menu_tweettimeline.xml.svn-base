@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/menu.sendTweet" 
+		android:title="@string/menu_sendTweet"
+		android:icon="@drawable/ic_menu_sendtweet_48">
+	</item>
+</menu>

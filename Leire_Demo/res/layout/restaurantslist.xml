@@ -1,0 +1,42 @@
+<LinearLayout 
+android:id="@+id/LinearLayout01" 
+android:layout_width="fill_parent" 
+android:layout_height="fill_parent" 
+xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical">
+	<ImageButton
+		android:id="@+id/button.back"
+		android:background="@drawable/comeback"
+		android:layout_height="wrap_content"
+		android:layout_width="295dip"
+		android:layout_marginTop ="15dip"
+		android:layout_marginLeft="15dip">
+	</ImageButton>
+	<TextView
+		android:id="@+id/text.currentrestaurants"
+		android:background="@color/transparent"
+		android:layout_height="wrap_content"
+		android:layout_width="wrap_content"
+		android:layout_marginTop ="10dip"
+		android:layout_marginLeft="15dip"
+		android:text="Restaurants of Barcelona"
+		android:textColor="@color/dark_gray"
+		android:textStyle="bold"
+		android:textSize="12dip">
+	</TextView>
+		<TextView
+		android:id="@+id/text.products"
+		android:background="@color/transparent"
+		android:layout_height="wrap_content"
+		android:layout_width="wrap_content"
+		android:layout_marginTop ="15dip"
+		android:layout_marginLeft="15dip"
+		android:text="Restaurants"
+		android:textColor="@color/dark_gray"
+		android:textSize="16dip"
+		android:layout_marginBottom="5dip">
+	</TextView>
+	<ListView
+		android:id="@+id/restaurantsListView"
+		style="@style/list_green"
+	></ListView>
+</LinearLayout>

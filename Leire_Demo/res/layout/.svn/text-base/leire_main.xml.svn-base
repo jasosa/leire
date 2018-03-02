@@ -1,0 +1,65 @@
+<LinearLayout android:id="@+id/LinearLayout01" 
+android:layout_width="fill_parent" 
+android:layout_height="fill_parent" 
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical">
+	<ImageView android:id="@+id/ImageView01" 
+	android:layout_width="wrap_content" 
+	android:layout_height="wrap_content"
+	android:src="@drawable/leire_header"
+	android:padding="15dip">
+	</ImageView>
+	<ListView style="@style/list_green"
+	android:id="@+id/listViewOptions" 	
+	>
+	</ListView>
+	<LinearLayout
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			android:paddingLeft="15dip"
+			android:orientation="vertical">
+			<LinearLayout 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content">
+				<TextView
+					android:textSize="12sp"
+					android:textStyle="bold"
+					android:id="@+id/leire_appname_green"
+					android:text = "@string/leire_appname_green"
+					android:textColor="@color/green"
+					android:layout_width="wrap_content" 
+					android:layout_height="wrap_content">
+				</TextView>
+				<TextView
+					android:textSize="12sp"
+					android:textStyle="bold"
+					android:id="@+id/leire_appcopyright"
+					android:text = "@string/leire_appcopyright"
+					android:textColor="@color/dark_gray"
+					android:layout_width="wrap_content" 
+					android:layout_height="wrap_content">
+				</TextView>
+			</LinearLayout>
+			<LinearLayout 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content">
+				<TextView
+					android:textSize="12sp"
+					android:textStyle="bold"
+					android:id="@+id/leire_allrigths"
+					android:text = "@string/leire_allrigths"
+					android:textColor="@color/ultra_light_gray"
+					android:layout_width="wrap_content" 
+					android:layout_height="wrap_content">
+				</TextView>
+				<TextView
+					android:textSize="12sp"
+					android:id="@+id/leire_web"
+					android:text = "@string/leire_web"
+					android:textColor="@color/ultra_light_gray"
+					android:layout_width="wrap_content" 
+					android:layout_height="wrap_content">
+				</TextView>
+			</LinearLayout>
+	</LinearLayout>
+</LinearLayout>

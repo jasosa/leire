@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- =============================================================== -->
+ 	<!-- Green styles                                                    -->
+	<!-- =============================================================== -->
+	<dimen name="page_margin_top_green">10sp</dimen>
+	<dimen name="page_margin_left_green">6sp</dimen>
+	<dimen name="page_margin_green">2sp</dimen>
+		
+	<style name="page_background_green">
+ 		<item name="android:background">@color/white_gray</item>
+ 		<item name="android:padding">@dimen/page_margin_green</item>
+ 	</style>
+ 	
+ 	<style name="list_green">
+		<item name="android:background">@drawable/list_container_green</item>
+		<item name="android:paddingTop">5sp</item>
+		<item name="android:paddingBottom">5sp</item>
+		<item name="android:paddingLeft">5sp</item>
+		<item name="android:paddingRight">5sp</item>
+		<item name="android:listSelector">@drawable/list_item_selector</item> 
+		<item name="android:cacheColorHint">@color/transparent</item>
+		<item name="android:divider">@drawable/list_item_separator</item>
+		<item name="android:dividerHeight">2dip</item>
+		<item name="android:footerDividersEnabled">false</item>
+		<item name="android:headerDividersEnabled">false</item>
+		<item name="android:scrollbarAlwaysDrawVerticalTrack">true</item>
+		<item name="android:scrollbars">vertical</item>
+		<item name="android:layout_width">300dip</item> 
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:layout_gravity">center_horizontal</item>
+		<item name="android:layout_marginBottom">20dip</item>
+	</style>
+	
+	<!-- TEXT STYLES -->
+	
+	<style name="Text">
+		<item name="android:background">@color/transparent</item>
+		<item name="android:textSize">16sp</item>
+	</style>
+	
+	<!-- COLORS  -->
+	
+	<style name="Text.WhiteGray">
+		<item name="android:textColor">@color/white_gray</item>
+	</style>
+	
+	<style name="Text.DarkGray">
+		<item name="android:textColor">@color/dark_gray</item>
+	</style>
+	
+	<style name="Text.Green">
+		<item name="android:textColor">@color/green</item>
+	</style>
+	
+	<style name="Text.Red">
+		<item name="android:textColor">@color/red</item>
+	</style>
+	
+	<!-- BOLD  STYLES -->
+	
+	<style name="Text.WhiteGray.Bold">
+        	<item name="android:textStyle">bold</item>
+	</style>
+	
+	<style name="Text.DarkGray.Bold">
+		<item name="android:textStyle">bold</item>
+	</style>
+	
+	<style name="Text.Green.Bold">
+        	<item name="android:textStyle">bold</item>
+	</style>
+	
+	<style name="Text.Red.Bold">
+		<item name="android:textStyle">bold</item>
+	</style>
+	
+	<!-- DIFFERENTS SIZES STYLES  -->
+	<style name="Text.Green.Bold.Big">
+	       <item name="android:textSize">20sp</item>
+	</style>
+	
+	<style name="Text.Green.Bold.Little">
+	       <item name="android:textSize">12sp</item>
+	</style>
+	
+	<style name="Text.DarkGray.Bold.Little">
+		<item name="android:textSize">12sp</item>
+	</style>
+    
+    <style name="Text.Red.Bold.Big">
+		<item name="android:textSize">20sp</item>
+	</style>
+	
+	    <style name="Text.Red.Bold.Little">
+		<item name="android:textSize">12sp</item>
+	</style>
+
+</resources>

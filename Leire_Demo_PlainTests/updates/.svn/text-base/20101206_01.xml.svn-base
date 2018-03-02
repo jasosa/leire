@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<demo>
+	<version>1.0</version>
+	<category>
+		<id>-1</id>
+		<isLeaf>false</isLeaf>
+		<name>Root</name>
+		<parentId />
+		<category>
+			<id>998</id>
+			<isLeaf>true</isLeaf>
+			<name>A&#241;adidos</name>
+			<parentId>-1</parentId>
+			<products>
+				<product>
+					<id>353</id>
+					<fitType>02</fitType>
+					<name>Delicias de pollo con pur&#233; de patatas</name>
+					<ean>0150000000353</ean>
+					<manufacturer>TEBA El Catering Sin</manufacturer>
+					<brand>Teba</brand>
+					<categoryId>998</categoryId>
+					<categoryName>Categ_0000055</categoryName>
+					<dischargeDate>06/12/2010</dischargeDate>
+				</product>
+				<product>
+					<id>354</id>
+					<fitType>01</fitType>
+					<name>Guisado de carne con patatas</name>
+					<ean>0150000000354</ean>
+					<manufacturer>TEBA El Catering Sin</manufacturer>
+					<brand>Teba</brand>
+					<categoryId>998</categoryId>
+					<categoryName>Categ_0000055</categoryName>
+					<dischargeDate>06/12/2010</dischargeDate>
+				</product>
+				<product>
+					<id>355</id>
+					<fitType>02</fitType>
+					<name>Guisantes con jam&#243;n</name>
+					<ean>0150000000355</ean>
+					<manufacturer>TEBA El Catering Sin</manufacturer>
+					<brand>Teba</brand>
+					<categoryId>998</categoryId>
+					<categoryName>Categ_0000055</categoryName>
+					<dischargeDate>06/12/2010</dischargeDate>
+				</product>
+				<product>
+					<id>356</id>
+					<fitType>01</fitType>
+					<name>Hamburguesas con patatas</name>
+					<ean>0150000000356</ean>
+					<manufacturer>TEBA El Catering Sin</manufacturer>
+					<brand>Teba</brand>
+					<categoryId>998</categoryId>
+					<categoryName>Categ_0000055</categoryName>
+					<dischargeDate>06/12/2010</dischargeDate>
+				</product>
+				<product>
+					<id>357</id>
+					<fitType>01</fitType>
+					<name>Jud&#237;as verdes con tomate</name>
+					<ean>0150000000357</ean>
+					<manufacturer>TEBA El Catering Sin</manufacturer>
+					<brand>Teba</brand>
+					<categoryId>998</categoryId>
+					<categoryName>Categ_0000055</categoryName>
+					<dischargeDate>06/12/2010</dischargeDate>
+				</product>
+				<product>
+					<id>358</id>
+					<fitType>01</fitType>
+					<name>Lentejas a la riojana</name>
+					<ean>0150000000358</ean>
+					<manufacturer>TEBA El Catering Sin</manufacturer>
+					<brand>Teba</brand>
+					<categoryId>998</categoryId>
+					<categoryName>Categ_0000055</categoryName>
+					<dischargeDate>06/12/2010</dischargeDate>
+				</product>
+				<product>
+					<id>359</id>
+					<fitType>01</fitType>
+					<name>Menestra de verduras</name>
+					<ean>0150000000359</ean>
+					<manufacturer>TEBA El Catering Sin</manufacturer>
+					<brand>Teba</brand>
+					<categoryId>998</categoryId>
+					<categoryName>Categ_0000055</categoryName>
+					<dischargeDate>06/12/2010</dischargeDate>
+				</product>
+				<product>
+					<id>360</id>
+					<fitType>01</fitType>
+					<name>Paella valenciana</name>
+					<ean>0150000000360</ean>
+					<manufacturer>TEBA El Catering Sin</manufacturer>
+					<brand>Teba</brand>
+					<categoryId>998</categoryId>
+					<categoryName>Categ_0000055</categoryName>
+					<dischargeDate>06/12/2010</dischargeDate>
+				</product>
+			</products>
+		</category>
+		<category>
+			<id>999</id>
+			<isLeaf>true</isLeaf>
+			<name>Eliminados</name>
+			<parentId>-1</parentId>
+			<products>
+			</products>
+		</category>
+	</category>
+</demo>

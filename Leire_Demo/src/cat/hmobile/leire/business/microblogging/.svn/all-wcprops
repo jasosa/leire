@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/lei_leirepo/!svn/ver/152/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/business/microblogging
+END
+MicrobloggingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/lei_leirepo/!svn/ver/145/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/business/microblogging/MicrobloggingException.java
+END
+IMicrobloggingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/lei_leirepo/!svn/ver/153/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/business/microblogging/IMicrobloggingService.java
+END
+IMicrobloggingOAuthClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/lei_leirepo/!svn/ver/149/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/business/microblogging/IMicrobloggingOAuthClient.java
+END
+MicrobloggingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/lei_leirepo/!svn/ver/153/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/business/microblogging/MicrobloggingService.java
+END
+MicrobloggingOAuthClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/lei_leirepo/!svn/ver/149/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/business/microblogging/MicrobloggingOAuthClient.java
+END

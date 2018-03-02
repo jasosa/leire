@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      android:versionCode="1"
+      android:versionName="1.0" package="cat.hmobile.leire.GUI.Activities">
+    <application 
+    	android:label="@string/app_name" 
+    	android:debuggable="true"
+		android:icon="@drawable/ic_launcher_leire"
+		android:screenOrientation="portrait">
+        <activity 
+        android:name="MainMenuActivity" 
+        android:label="@string/app_name" 
+        android:icon="@drawable/leire"
+        android:theme="@style/Leire.Green"
+        android:screenOrientation="portrait"
+        >
+        	<intent-filter>
+	        	<action android:name="android.intent.action.MAIN" />
+		        <category android:name="android.intent.category.LAUNCHER" />
+        	</intent-filter>
+        </activity>
+    	<activity android:name="GeneralCatalogActivity" android:launchMode="singleTop" android:theme="@style/Leire.Green" android:screenOrientation="portrait">
+		    <intent-filter>
+		        <action android:name="android.intent.action.SEARCH" />
+		    </intent-filter>
+	        <meta-data android:name="android.app.searchable"
+	                   android:resource="@xml/searchable"/>
+		</activity>
+		<activity android:name="UpdateCatalogActivity" android:launchMode="singleTop" android:theme="@style/Leire.Green" android:screenOrientation="portrait">
+		    <intent-filter>
+		        <action android:name="android.intent.action.SEARCH" />
+		    </intent-filter>
+	        <meta-data android:name="android.app.searchable"
+	                   android:resource="@xml/searchable"/>
+		</activity>
+		<activity android:name="ProductListActivity" android:label="@string/productlistactivity.title" android:icon="@drawable/icon"
+		android:launchMode="singleTop" android:theme="@style/Leire.Green" android:screenOrientation="portrait">
+		  	<intent-filter>
+				<action android:name="android.intent.action.SEARCH" />
+			</intent-filter>
+			<meta-data android:name="android.app.searchable"
+	                   android:resource="@xml/searchable"/>
+		</activity>
+		<activity android:name="ProductUpdateListActivity" android:label="@string/productupdatelistactivity.title" android:icon="@drawable/icon"
+		android:launchMode="singleTop" android:theme="@style/Leire.Green" android:screenOrientation="portrait">
+		  	<intent-filter>
+				<action android:name="android.intent.action.SEARCH" />
+			</intent-filter>
+			<meta-data android:name="android.app.searchable"
+	                   android:resource="@xml/searchable"/>
+		</activity>
+		<activity android:name="ProductDetailActivity" android:label="@string/productdetailactivity.title" 
+		android:icon="@drawable/icon" android:theme="@style/Leire.Green" android:screenOrientation="portrait">
+		</activity>
+		<activity android:name="ScannerActivity" android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+		android:configChanges="orientation|keyboardHidden" android:screenOrientation="landscape">
+			<intent-filter>
+		    	<action android:name="android.intent.action.SCAN" />
+		   	</intent-filter>
+		</activity>
+		<activity android:name="ManualScannerActivity" android:label="@string/manualscanneractivity.title"
+		android:screenOrientation="portrait" android:theme="@style/Leire.Green"></activity>
+		<activity android:name="CaptureBarCodeLauncherActivity" android:configChanges="keyboardHidden|orientation"
+		android:theme="@style/Leire.Green" android:screenOrientation="portrait">
+		</activity>
+		<activity android:name="UpdatesListActivity" android:theme="@style/Leire.Green" android:screenOrientation="portrait"></activity>
+		<activity android:name="TimeLineActivity" android:theme="@style/Leire.Green" android:screenOrientation="portrait"></activity>
+		<activity android:name="MainPreferencesActivity" android:screenOrientation="portrait"></activity>
+		<activity android:name="SendTweetActivity" android:theme="@style/Leire.Green" android:screenOrientation="portrait"></activity>
+		<activity android:name="TweetDetailActivity" android:theme="@style/Leire.Green" android:screenOrientation="portrait"></activity>
+		
+	</application>
+	
+	<uses-feature android:name="android.hardware.camera" />
+	<uses-feature android:name="android.hardware.camera.autofocus" />
+	
+	<uses-permission android:name="android.permission.CAMERA" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.VIBRATE" />
+	<uses-permission android:name="android.permission.FLASHLIGHT" />
+	<!-- Per verificar la performance dels tests -->
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+</manifest> 

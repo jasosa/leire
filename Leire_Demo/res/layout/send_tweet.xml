@@ -1,0 +1,54 @@
+<LinearLayout android:id="@+id/LinearLayout01" 
+android:layout_width="fill_parent" 
+android:layout_height="fill_parent"
+ xmlns:android="http://schemas.android.com/apk/res/android" 
+ android:orientation="vertical">
+ 	<ImageButton
+		android:id="@+id/button.back"
+		android:background="@drawable/comeback"
+		android:layout_height="wrap_content"
+		android:layout_width="295dip"
+		android:layout_marginTop ="15dip"
+		android:layout_marginLeft="15dip"
+		android:layout_marginBottom="10dip">
+	</ImageButton>
+ <EditText 
+	 android:textColor="@color/dark_gray"
+	 android:textSize="20dip"
+	 android:typeface="sans"
+	 android:id="@+id/sendTweet" 
+	 style="@style/list_green"
+	 android:layout_height="160dip"
+	 android:layout_marginBottom="10dip"
+	 android:singleLine="false"
+	 android:inputType="textMultiLine|textCapSentences" 
+	 android:gravity="top">
+ </EditText>
+ <LinearLayout  
+ android:layout_width="fill_parent" 
+ android:layout_height="wrap_content">
+ <TextView 
+ style="@style/Text.Green.Bold.Big"
+ android:text="140"
+ android:id="@+id/text.remain.characters" 
+ android:layout_width="fill_parent" 
+ android:layout_height="wrap_content"
+ android:layout_gravity="center_vertical"
+ android:layout_weight="1"
+ android:gravity="right"
+ android:layout_marginRight="10dip">
+ </TextView>
+	<Button 
+        	style="@style/Text.WhiteGray.Bold"
+            android:id="@+id/sendButton"
+            android:layout_width="100dip"
+            android:layout_height="30dip"
+            android:text="Send"
+            android:background="@color/green"
+            android:layout_marginRight="10dip"
+            android:gravity="center"
+            android:layout_gravity="right"
+            android:layout_weight="0">
+     </Button>
+</LinearLayout>
+</LinearLayout>

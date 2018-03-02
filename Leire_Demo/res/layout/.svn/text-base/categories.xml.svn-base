@@ -1,0 +1,40 @@
+<LinearLayout 
+android:id="@+id/LinearLayout01" 
+android:layout_width="fill_parent" 
+android:layout_height="fill_parent" 
+xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical">
+	<ImageButton
+		android:id="@+id/button.back"
+		android:background="@drawable/comeback"
+		android:layout_height="wrap_content"
+		android:layout_width="295dip"
+		android:layout_marginTop ="15dip"
+		android:layout_marginLeft="15dip">
+	</ImageButton>
+	<TextView
+		style="@style/Text.DarkGray.Bold.Little"
+		android:id="@+id/text.currentcategory"
+		android:layout_height="wrap_content"
+		android:layout_width="wrap_content"
+		android:layout_marginTop ="10dip"
+		android:layout_marginLeft="15dip"
+		android:text="Categoría 1"
+		>
+	</TextView>
+		<TextView
+		android:id="@+id/text.subcategories"
+		android:background="@color/transparent"
+		android:layout_height="wrap_content"
+		android:layout_width="wrap_content"
+		android:layout_marginTop ="15dip"
+		android:layout_marginLeft="15dip"
+		android:text="@string/text.subcategories"
+		android:textColor="@color/dark_gray"
+		android:textSize="16dip"
+		android:layout_marginBottom="5dip">
+	</TextView>
+	<ListView
+		android:id="@+id/categoriesListView"
+		style="@style/list_green"
+	></ListView>
+</LinearLayout>

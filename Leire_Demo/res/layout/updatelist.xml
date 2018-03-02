@@ -1,0 +1,28 @@
+<LinearLayout 
+android:id="@+id/LinearLayout01" 
+android:layout_width="fill_parent" 
+android:layout_height="fill_parent" 
+xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical">
+	<ImageButton
+		android:id="@+id/button.back"
+		android:background="@drawable/comeback"
+		android:layout_height="wrap_content"
+		android:layout_width="295dip"
+		android:layout_marginTop ="15dip"
+		android:layout_marginLeft="15dip">
+	</ImageButton>
+	<TextView
+		style="@style/Text.DarkGray.Bold.Little"
+		android:layout_height="wrap_content"
+		android:layout_width="wrap_content"
+		android:layout_marginTop ="10dip"
+		android:layout_marginLeft="15dip"
+		android:text="@string/updates_list_title"
+		>
+	</TextView>
+	<ListView
+		android:layout_marginTop ="20dip"
+		android:id="@+id/updatesListView"
+		style="@style/list_green"
+	></ListView>
+</LinearLayout>

@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:visible="true" android:title="@string/menu_catalogstart_title" android:id="@+id/menuitem_categories" android:icon="@drawable/categories_48">
+</item>
+<item android:title="@string/menu_search_title" android:id="@+id/menuitem_search" android:icon="@drawable/search_48">
+</item>
+</menu>

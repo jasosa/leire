@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/lei_leirepo/!svn/ver/149/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/microblogging
+END
+IMicrobloggingMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/lei_leirepo/!svn/ver/144/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/microblogging/IMicrobloggingMessage.java
+END
+MicrobloggingUserBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/lei_leirepo/!svn/ver/153/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/microblogging/MicrobloggingUserBuilder.java
+END
+MicrobloggingUserLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/lei_leirepo/!svn/ver/153/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/microblogging/MicrobloggingUserLoader.java
+END
+MicrobloggingUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/lei_leirepo/!svn/ver/153/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/microblogging/MicrobloggingUser.java
+END
+IMicrobloggingUserBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/lei_leirepo/!svn/ver/153/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/microblogging/IMicrobloggingUserBuilder.java
+END
+MicrobloggingUserNotInHolderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/lei_leirepo/!svn/ver/145/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/microblogging/MicrobloggingUserNotInHolderException.java
+END
+MicrobloggingMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/lei_leirepo/!svn/ver/153/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/microblogging/MicrobloggingMessage.java
+END
+MicrobloggingAuthenticationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/lei_leirepo/!svn/ver/146/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/microblogging/MicrobloggingAuthenticationException.java
+END
+IMicrobloggingUserLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/lei_leirepo/!svn/ver/153/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/microblogging/IMicrobloggingUserLoader.java
+END
+IMicrobloggingUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/lei_leirepo/!svn/ver/153/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/microblogging/IMicrobloggingUser.java
+END
+MicrobloggingUsersHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/lei_leirepo/!svn/ver/153/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/microblogging/MicrobloggingUsersHolder.java
+END
+MicrobloggingNetworkException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/lei_leirepo/!svn/ver/144/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/microblogging/MicrobloggingNetworkException.java
+END

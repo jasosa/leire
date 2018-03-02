@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/lei_leirepo/!svn/ver/105/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/categories
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/lei_leirepo/!svn/ver/105/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/categories/Category.java
+END
+CategoryMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/lei_leirepo/!svn/ver/105/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/categories/CategoryMap.java
+END
+CategoryLeaf.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/lei_leirepo/!svn/ver/105/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/categories/CategoryLeaf.java
+END
+ICategoryLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/lei_leirepo/!svn/ver/105/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/categories/ICategoryLoader.java
+END
+CategoryLoaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/lei_leirepo/!svn/ver/105/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/categories/CategoryLoaderFactory.java
+END
+CategoryNotAllowChildsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/lei_leirepo/!svn/ver/105/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/categories/CategoryNotAllowChildsException.java
+END
+CategoryNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/lei_leirepo/!svn/ver/105/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/categories/CategoryNotFoundException.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/lei_leirepo/!svn/ver/151/branches/demo/src/Leire_Demo_PlainTests
+END
+updatesList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/lei_leirepo/!svn/ver/125/branches/demo/src/Leire_Demo_PlainTests/updatesList.xml
+END
+demoData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/lei_leirepo/!svn/ver/138/branches/demo/src/Leire_Demo_PlainTests/demoData.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/lei_leirepo/!svn/ver/125/branches/demo/src/Leire_Demo_PlainTests/.project
+END
+OLDdemoData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/lei_leirepo/!svn/ver/138/branches/demo/src/Leire_Demo_PlainTests/OLDdemoData.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/lei_leirepo/!svn/ver/133/branches/demo/src/Leire_Demo_PlainTests/.classpath
+END

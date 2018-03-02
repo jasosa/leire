@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<demo>
+	<version>1.0</version>
+	<category>
+		<id>-1</id>
+		<isLeaf>false</isLeaf>
+		<name>Root</name>
+		<parentId />
+		<category>
+			<id>998</id>
+			<isLeaf>true</isLeaf>
+			<name>Added</name>
+			<parentId>-1</parentId>
+			<products>
+				<product>
+					<id>001</id>
+					<fitType>01</fitType>
+					<name>Red yeast</name>
+					<ean>0150000000001</ean>
+					<manufacturer>Alcampo</manufacturer>
+					<brand>Flasfan</brand>
+					<categoryId>998</categoryId>
+					<categoryName>Yeast</categoryName>
+					<dischargeDate>23/08/2010</dischargeDate>
+				</product>
+				<product>
+					<id>002</id>
+					<fitType>02</fitType>
+					<name>Chili peanuts</name>
+					<ean>0150000000002</ean>
+					<manufacturer>Alcampo</manufacturer>
+					<brand>PeanutsCo</brand>
+					<categoryId>998</categoryId>
+					<categoryName>Nuts</categoryName>
+					<dischargeDate>23/08/2010</dischargeDate>
+				</product>
+				<product>
+					<id>003</id>
+					<fitType>01</fitType>
+					<name>Cracked Seeds</name>
+					<ean>0150000000003</ean>
+					<manufacturer>Alcampo</manufacturer>
+					<brand>PeanutsCo</brand>
+					<categoryId>998</categoryId>
+					<categoryName>Nuts</categoryName>
+					<dischargeDate>23/08/2010</dischargeDate>
+				</product>
+				<product>
+					<id>004</id>
+					<fitType>02</fitType>
+					<name>Almond's Clusters</name>
+					<ean>0150000000004</ean>
+					<manufacturer>Alcampo</manufacturer>
+					<brand>Northern Star</brand>
+					<categoryId>998</categoryId>
+					<categoryName>Nuts</categoryName>
+					<dischargeDate>23/08/2010</dischargeDate>
+				</product>
+			</products>
+		</category>
+		<category>
+			<id>999</id>
+			<isLeaf>true</isLeaf>
+			<name>Removed</name>
+			<parentId>-1</parentId>
+			<products>
+				<product>
+					<id>012</id>
+					<fitType>01</fitType>
+					<name>Sweet ice</name>
+					<ean>0150000000012</ean>
+					<manufacturer>Alcampo</manufacturer>
+					<brand>GranVia</brand>
+					<categoryId>999</categoryId>
+					<categoryName>Sweeteners</categoryName>
+					<dischargeDate>23/08/2010</dischargeDate>
+				</product>
+				<product>
+					<id>013</id>
+					<fitType>01</fitType>
+					<name>Condensed Milk</name>
+					<ean>0150000000013</ean>
+					<manufacturer>Alcampo</manufacturer>
+					<brand>Milky Brandy</brand>
+					<categoryId>999</categoryId>
+					<categoryName>Milk Products</categoryName>
+					<dischargeDate>23/08/2010</dischargeDate>
+				</product>
+				<product>
+					<id>014</id>
+					<fitType>01</fitType>
+					<name>Extra milk</name>
+					<ean>0150000000014</ean>
+					<manufacturer>Almendra y Miel, S.A.</manufacturer>
+					<brand>Milky Brandy</brand>
+					<categoryId>999</categoryId>
+					<categoryName>Milk Products</categoryName>
+					<dischargeDate>23/08/2010</dischargeDate>
+				</product>
+				<product>
+					<id>015</id>
+					<fitType>02</fitType>
+					<name>Butter Cream</name>
+					<ean>0150000000015</ean>
+					<manufacturer>Almendra y Miel, S.A.</manufacturer>
+					<brand>Butty Creaks</brand>
+					<categoryId>999</categoryId>
+					<categoryName>Frostings</categoryName>
+					<dischargeDate>23/08/2010</dischargeDate>
+				</product>
+				<product>
+					<id>016</id>
+					<fitType>02</fitType>
+					<name>Coconut ice</name>
+					<ean>0150000000016</ean>
+					<manufacturer>Almendra y Miel, S.A.</manufacturer>
+					<brand>Butty Creaks</brand>
+					<categoryId>999</categoryId>
+					<categoryName>Frostings</categoryName>
+					<dischargeDate>23/08/2010</dischargeDate>
+				</product>
+			</products>
+		</category>
+	</category>
+</demo>

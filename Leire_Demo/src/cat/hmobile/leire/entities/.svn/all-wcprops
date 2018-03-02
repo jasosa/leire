@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lei_leirepo/!svn/ver/149/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities
+END
+CommonEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/lei_leirepo/!svn/ver/34/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/CommonEntity.java
+END
+LeireException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/lei_leirepo/!svn/ver/13/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/LeireException.java
+END
+ProductUpdateCategoryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/lei_leirepo/!svn/ver/108/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/ProductUpdateCategoryException.java
+END
+ArgumentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/lei_leirepo/!svn/ver/34/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/ArgumentException.java
+END
+DataAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/lei_leirepo/!svn/ver/19/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/DataAccessException.java
+END

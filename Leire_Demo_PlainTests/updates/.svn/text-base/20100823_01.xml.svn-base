@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<demo>
+	<version>1.0</version>
+	<category>
+		<id>-1</id>
+		<isLeaf>false</isLeaf>
+		<name>Root</name>
+		<parentId />
+		<category>
+			<id>998</id>
+			<isLeaf>true</isLeaf>
+			<name>A&#241;adidos</name>
+			<parentId>-1</parentId>
+			<products>
+				<product>
+					<id>001</id>
+					<fitType>01</fitType>
+					<name>Baguette</name>
+					<ean>0150000000001</ean>
+					<manufacturer>Alcampo</manufacturer>
+					<brand>Auchan</brand>
+					<categoryId>998</categoryId>
+					<categoryName>Categ_0000021</categoryName>
+					<dischargeDate>23/08/2010</dischargeDate>
+				</product>
+				<product>
+					<id>002</id>
+					<fitType>02</fitType>
+					<name>Base de pizza</name>
+					<ean>0150000000002</ean>
+					<manufacturer>Alcampo</manufacturer>
+					<brand>Auchan</brand>
+					<categoryId>998</categoryId>
+					<categoryName>Categ_0000021</categoryName>
+					<dischargeDate>23/08/2010</dischargeDate>
+				</product>
+				<product>
+					<id>003</id>
+					<fitType>01</fitType>
+					<name>Bollos de cacao</name>
+					<ean>0150000000003</ean>
+					<manufacturer>Alcampo</manufacturer>
+					<brand>Auchan</brand>
+					<categoryId>998</categoryId>
+					<categoryName>Categ_0000021</categoryName>
+					<dischargeDate>23/08/2010</dischargeDate>
+				</product>
+				<product>
+					<id>004</id>
+					<fitType>02</fitType>
+					<name>Croissants</name>
+					<ean>0150000000004</ean>
+					<manufacturer>Alcampo</manufacturer>
+					<brand>Auchan</brand>
+					<categoryId>998</categoryId>
+					<categoryName>Categ_0000021</categoryName>
+					<dischargeDate>23/08/2010</dischargeDate>
+				</product>
+			</products>
+		</category>
+		<category>
+			<id>999</id>
+			<isLeaf>true</isLeaf>
+			<name>Eliminados</name>
+			<parentId>-1</parentId>
+			<products>
+				<product>
+					<id>012</id>
+					<fitType>01</fitType>
+					<name>Plum cake</name>
+					<ean>0150000000012</ean>
+					<manufacturer>Alcampo</manufacturer>
+					<brand>Auchan</brand>
+					<categoryId>999</categoryId>
+					<categoryName>Categ_0000022</categoryName>
+					<dischargeDate>23/08/2010</dischargeDate>
+				</product>
+				<product>
+					<id>013</id>
+					<fitType>01</fitType>
+					<name>Preparado panificable</name>
+					<ean>0150000000013</ean>
+					<manufacturer>Alcampo</manufacturer>
+					<brand>Auchan</brand>
+					<categoryId>999</categoryId>
+					<categoryName>Categ_0000022</categoryName>
+					<dischargeDate>23/08/2010</dischargeDate>
+				</product>
+				<product>
+					<id>014</id>
+					<fitType>01</fitType>
+					<name>Turr&#243;n jijona 300 g</name>
+					<ean>0150000000014</ean>
+					<manufacturer>Almendra y Miel, S.A.</manufacturer>
+					<brand>EL LOBO, 1880</brand>
+					<categoryId>999</categoryId>
+					<categoryName>Categ_0000022</categoryName>
+					<dischargeDate>23/08/2010</dischargeDate>
+				</product>
+				<product>
+					<id>015</id>
+					<fitType>02</fitType>
+					<name>Turr&#243;n Alicante 300 g</name>
+					<ean>0150000000015</ean>
+					<manufacturer>Almendra y Miel, S.A.</manufacturer>
+					<brand>EL LOBO, 1880</brand>
+					<categoryId>999</categoryId>
+					<categoryName>Categ_0000022</categoryName>
+					<dischargeDate>23/08/2010</dischargeDate>
+				</product>
+				<product>
+					<id>016</id>
+					<fitType>02</fitType>
+					<name>Torta turr&#243;n Alicante 200 g</name>
+					<ean>0150000000016</ean>
+					<manufacturer>Almendra y Miel, S.A.</manufacturer>
+					<brand>EL LOBO, 1880</brand>
+					<categoryId>999</categoryId>
+					<categoryName>Categ_0000022</categoryName>
+					<dischargeDate>23/08/2010</dischargeDate>
+				</product>
+			</products>
+		</category>
+	</category>
+</demo>

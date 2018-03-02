@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/lei_leirepo/!svn/ver/105/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/barcode/layouts
+END
+Ean8Layout.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/lei_leirepo/!svn/ver/93/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/barcode/layouts/Ean8Layout.java
+END
+BarCodeLayoutFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/lei_leirepo/!svn/ver/84/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/barcode/layouts/BarCodeLayoutFactory.java
+END
+Ean13Layout.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/lei_leirepo/!svn/ver/105/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/barcode/layouts/Ean13Layout.java
+END
+UpcALayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/lei_leirepo/!svn/ver/93/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/barcode/layouts/UpcALayout.java
+END
+IBarCodeLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/lei_leirepo/!svn/ver/93/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/entities/barcode/layouts/IBarCodeLayout.java
+END

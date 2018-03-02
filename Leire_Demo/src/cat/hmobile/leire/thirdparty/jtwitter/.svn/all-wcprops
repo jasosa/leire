@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/lei_leirepo/!svn/ver/149/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/thirdparty/jtwitter
+END
+URLConnectionHttpClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/lei_leirepo/!svn/ver/149/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/thirdparty/jtwitter/URLConnectionHttpClient.java
+END
+OAuthSignpostClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/lei_leirepo/!svn/ver/149/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/thirdparty/jtwitter/OAuthSignpostClient.java
+END
+SimplyRSSReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/lei_leirepo/!svn/ver/149/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/thirdparty/jtwitter/SimplyRSSReader.java
+END
+TwitterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/lei_leirepo/!svn/ver/149/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/thirdparty/jtwitter/TwitterException.java
+END
+TwitterAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/lei_leirepo/!svn/ver/149/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/thirdparty/jtwitter/TwitterAccount.java
+END
+Twitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/lei_leirepo/!svn/ver/149/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/thirdparty/jtwitter/Twitter.java
+END
+TwitterList.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/lei_leirepo/!svn/ver/149/branches/demo/src/Leire_Demo/src/cat/hmobile/leire/thirdparty/jtwitter/TwitterList.java
+END

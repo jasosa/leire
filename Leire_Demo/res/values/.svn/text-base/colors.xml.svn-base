@@ -1,0 +1,11 @@
+<resources>
+<color name="white_gray">#F6F6F6</color>
+<color name="light_gray">#D6D6D6</color>
+<color name="dark_gray">#555555</color>
+<color name="ultra_light_gray">#8C8C8C</color>
+<color name="white">#FFFFFF</color>
+<color name="green">#878C14</color>
+<color name="orange">#C39B00</color>
+<color name="red">#E32229</color>
+<color name="transparent">#00000000</color>
+</resources>

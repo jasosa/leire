@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry exported="true" kind="src" path="/Leire_Demo"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Leire_Libs"/>
+	<classpathentry kind="lib" path="/Leire_Libs/libs/android.jar"/>
+	<classpathentry kind="lib" path="/Leire_Libs/libs/easymock-2.5.2.jar"/>
+	<classpathentry kind="lib" path="/Leire_Libs/libs/jaxen.jar"/>
+	<classpathentry kind="lib" path="/Leire_Libs/libs/jdom.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
